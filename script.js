@@ -4,658 +4,777 @@
 const ARTICLES = [
   {
     id: 1,
-    title: 'O Bitcoin como dinheiro sólido: por que 21 milhões de unidades é o número mais importante da economia',
-    excerpt: 'A escassez absoluta do Bitcoin é sua característica mais revolucionária. Entenda por que o limite de 21 milhões de moedas representa a primeira moeda verdadeiramente sólida da história.',
+    title: 'Golden cross do Bitcoin surge após 3 anos e BTC atinge US$ 82 mil com sinal de alta histórica',
+    excerpt: 'O crossover das médias móveis de 50 e 200 dias aparece pela primeira vez desde 2023, enquanto métrica MVRV indica mudança para momentum altista no mercado.',
     category: 'bitcoin',
     categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=21+Milh%C3%B5es',
-    author: 'Lucas Mendes',
-    date: '30 mai 2026',
+    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Golden+Cross+2026',
+    author: 'Redação BTC Ancap News',
+    date: '11 mai 2026',
     readTime: '6 min',
     featured: true,
     body: `
-      <p>Em um mundo onde bancos centrais imprimem trilhões sem lastro, o limite de 21 milhões de Bitcoins é talvez o número mais importante da economia moderna. Pela primeira vez na história, a humanidade tem acesso a um dinheiro cuja oferta é absolutamente previsível e imutável — não por decreto estatal, mas por matemática e código.</p>
+      <p>O Bitcoin acionou um dos sinais técnicos mais aguardados do ano: o "golden cross", formação que ocorre quando a média móvel de 50 dias cruza acima da média de 200 dias. O fenômeno não acontecia desde 2023 e historicamente precede grandes movimentos de alta no mercado cripto.</p>
 
-      <h3>O que torna o Bitcoin diferente de tudo que veio antes</h3>
-      <p>Toda moeda criada pelo Estado ao longo da história tem uma característica em comum: sua oferta pode ser expandida arbitrariamente. Os denários romanos foram desvalorizados, os marcos alemães sofreram hiperinflação, o dólar americano perdeu 99% de seu poder de compra desde a criação do Federal Reserve. Em todos os casos, o motivo foi o mesmo: governantes descobriram que podiam criar dinheiro do nada para financiar seus gastos.</p>
+      <h3>O que aconteceu</h3>
+      <p>O Bitcoin atingiu US$ 82.045 nesta semana, registrando alta consistente nos últimos dias. O golden cross — considerado por analistas técnicos como um dos indicadores mais confiáveis de reversão de tendência — se formou após semanas de consolidação e recuperação gradual dos níveis observados em abril.</p>
 
-      <p>O Bitcoin quebra esse ciclo de forma definitiva. Nenhum governo, banco central ou indivíduo pode criar mais Bitcoins além dos 21 milhões programados. A emissão segue um cronograma matemático imutável, reduzindo-se pela metade a cada quatro anos até que o último satoshi seja minerado, por volta de 2140.</p>
+      <p>Além do golden cross, a métrica MVRV (valor de mercado vs valor realizado) do Bitcoin também sinaliza uma "mudança para momentum altista", segundo dados on-chain. O MVRV Z-Score, que mede se o BTC está sobrevalorizado ou subvalorizado em relação ao seu custo base, permanece em níveis historicamente associados a fases de acumulação, não de euforia.</p>
 
-      <blockquote>O que Satoshi Nakamoto criou não é apenas uma nova moeda, mas um novo conceito: dinheiro que ninguém pode inflacionar. Isso nunca existiu antes. — Relatório BTC Ancap News</blockquote>
+      <blockquote>O golden cross combinado com MVRV saudável é um dos setups mais promissores que vimos neste ciclo. O mercado está precificando alta, mas sem o frenesi típico dos topos de ciclo. — Análise BTC Ancap News</blockquote>
 
-      <h3>Por que a escassez importa</h3>
-      <p>Economistas da Escola Austríaca, como Carl Menger e Ludwig von Mises, demonstraram que o valor do dinheiro emerge de sua escassez relativa e de sua aceitação no mercado. O Bitcoin satisfaz perfeitamente as características do que Mises chamava de "dinheiro sólido": durável, portátil, divisível, fungível e, acima de tudo, escasso.</p>
+      <h3>Contexto do mercado</h3>
+      <p>O sinal técnico surge em um momento de confluência de fatores positivos para o Bitcoin. Os ETFs à vista continuam registrando influxos consistentes, com US$ 2,44 bilhões em entradas apenas em abril. A acumulação institucional permanece forte, com detentores de longo prazo adicionando BTC a suas carteiras.</p>
 
-      <p>Ao contrário do ouro, cuja oferta cresce de 1% a 2% ao ano com novas descobertas de jazidas e avanços tecnológicos de mineração, a escassez do Bitcoin é absoluta e verificável por qualquer pessoa. Cada transação, cada bloco e cada moeda emitida são registrados em um livro-razão público e imutável. Não há "nova jazida de Bitcoin" a ser descoberta — o que existe é o que sempre existirá.</p>
+      <p>A taxa de hash da rede Bitcoin atinge máximos históricos, indicando que os mineradores estão confiantes na rentabilidade futura. O cenário de oferta também favorece a alta: com a emissão pós-halving reduzida e a demanda institucional crescendo, o choque de oferta segue se intensificando.</p>
 
-      <h3>As implicações econômicas</h3>
-      <p>O Bitcoin inverte a lógica keynesiana que domina a política monetária mundial. Em vez de permitir que governos expandam a oferta monetária para estimular a economia (causando inflação que corrói o poder de compra dos mais pobres), o Bitcoin impõe disciplina monetária absoluta. A consequência é um incentivo à poupança e ao planejamento de longo prazo — virtudes econômicas que foram sufocadas por décadas de inflação.</p>
+      <h3>Impacto no mercado</h3>
+      <p>Historicamente, golden crosses no Bitcoin foram seguidos por valorizações expressivas nos 3 a 6 meses seguintes. Em 2023, o sinal precedeu uma alta de mais de 100% nos meses seguintes. Em 2020, o golden cross marcou o início do rali que levou o BTC a US$ 69 mil.</p>
 
-      <p>Para o investidor, entender o significado do limite de 21 milhões é o primeiro passo para compreender por que o Bitcoin é frequentemente chamado de "ouro digital". Não se trata apenas de tecnologia, mas de uma filosofia econômica baseada na premissa de que dinheiro sólido é a base de uma sociedade livre e próspera.</p>
+      <p>O posicionamento atual do mercado, no entanto, difere dos ciclos anteriores. O funding rate dos contratos perpétuos permanece negativo ou neutro — algo incomum em momentos de otimismo. Isso sugere que o movimento de alta ainda não está contaminado por alavancagem excessiva, o que historicamente resulta em subidas mais sustentáveis.</p>
+
+      <h3>Consequências possíveis</h3>
+      <p>Se o Bitcoin conseguir se firmar acima da resistência dos US$ 85 mil, o golden cross pode impulsionar o preço em direção à faixa dos US$ 95 mil a US$ 100 mil nas próximas semanas. O cenário de curto prazo, no entanto, depende da capacidade do BTC de transformar a média de 200 dias (atualmente na região dos US$ 82 mil) em suporte.</p>
+
+      <p>Para investidores de longo prazo, o golden cross reforça a tese de que o ciclo de alta ainda está em seus estágios intermediários. A combinação de sinal técnico positivo, fundamentos on-chain saudáveis e demanda institucional crescente cria um ambiente favorável para a continuidade do movimento altista.</p>
+
+      <h3>Análise BTC Ancap News</h3>
+      <p>O golden cross é um sinal técnico respeitado, mas não infalível. O que torna o cenário atual particularmente interessante é a confluência com fundamentos sólidos: hashrate recorde, acumulação institucional, ETFs como canal de demanda estrutural e escassez programada pós-halving. O golden cross funciona como um catalisador de atenção e confiança, mas são os fundamentos que sustentarão qualquer movimento de alta. O investidor atento deve monitorar se o volume de negociação acompanha a alta — sem volume, até o golden cross mais bonito pode ser um falso sinal.</p>
     `,
-    comments: [
-      { author: 'Carlos S.', date: '30 mai 2026', text: '21 milhões é o número mais importante que existe. Quando você entende isso, entende Bitcoin.' },
-      { author: 'Ana L.', date: '30 mai 2026', text: 'Nenhum governo vai parar de imprimir dinheiro. Bitcoin é a única saída.' },
-      { author: 'Pedro R.', date: '29 mai 2026', text: 'Estudei a Escola Austríaca por causa do Bitcoin. Muda completamente sua visão de mundo.' },
-    ]
+    comments: []
   },
   {
     id: 2,
-    title: 'Autocustódia de Bitcoin atinge recorde: 70% do supply está fora de exchanges',
-    excerpt: 'Mais de 14,7 milhões de BTC estão em carteiras privadas, o maior nível da história. Movimento reflete amadurecimento dos investidores e busca por soberania financeira.',
-    category: 'bitcoin',
-    categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Autocust%C3%B3dia+BTC',
-    author: 'Rafael Torres',
-    date: '29 mai 2026',
+    title: 'MoonPay adquire Dawn Labs e cria ferramenta de IA para mercados de predição em cripto',
+    excerpt: 'Empresa de pagamentos cripto compra startup de mercados de predição e lança assistente de IA que cria estratégias personalizadas de trading para eventos do mundo real.',
+    category: 'cripto',
+    categoryLabel: 'Cripto',
+    image: 'https://placehold.co/800x400/0055aa/ffffff?text=MoonPay+IA',
+    author: 'Redação BTC Ancap News',
+    date: '11 mai 2026',
     readTime: '5 min',
     featured: true,
     body: `
-      <p>Um marco histórico para a soberania financeira foi atingido: mais de 70% de todo o Bitcoin em circulação — aproximadamente 14,7 milhões de BTC — está agora fora de exchanges centralizadas, armazenado em carteiras privadas sob controle direto dos detentores. O movimento representa a maior transferência de autocustódia já registrada.</p>
+      <p>A MoonPay, uma das maiores processadoras de pagamentos em criptomoedas do mundo, anunciou a aquisição da Dawn Labs, startup especializada em mercados de predição. Junto com a compra, a empresa lançou uma ferramenta de inteligência artificial que oferece "estratégias personalizadas" para negociação em plataformas de apostas descentralizadas.</p>
 
-      <h3>O que significa custodiar seus próprios Bitcoins</h3>
-      <p>Autocustódia significa deter o controle total das chaves privadas de sua carteira de Bitcoin. Diferentemente de deixar saldos em exchanges ou custodians terceirizados, a autocustódia garante que nenhuma contraparte — seja governo, exchange ou banco — possa congelar ou confiscar seus Bitcoins. O princípio fundamental é: "not your keys, not your coins" (não são suas chaves, não são suas moedas).</p>
+      <h3>O que aconteceu</h3>
+      <p>A MoonPay não divulgou os termos financeiros da aquisição, mas a movimentação sinaliza uma aposta estratégica no segmento de mercados de predição — plataformas que permitem apostar em resultados de eventos reais, como eleições, decisões de bancos centrais e lançamentos de produtos.</p>
 
-      <blockquote>A autocustódia de Bitcoin não é apenas uma questão de segurança — é um ato político. É a afirmação prática de que você confia em si mesmo mais do que em qualquer instituição. — Andreas M. Antonopoulos</blockquote>
+      <p>A ferramenta de IA lançada simultaneamente promete analisar grandes volumes de dados em tempo real e sugerir estratégias de alocação em mercados de predição, personalizadas de acordo com o perfil de risco do usuário. A integração com a infraestrutura de pagamentos da MoonPay permite que os usuários financiem suas posições diretamente com cartão de crédito ou criptomoedas.</p>
 
-      <h3>Por que as pessoas estão tirando BTC das exchanges</h3>
-      <p>Vários fatores explicam esse movimento recorde de saída de exchanges. O colapso da FTX em 2022 ainda ecoa na memória dos investidores, que aprenderam da pior forma possível que manter grandes quantidades em exchanges envolve risco de contraparte. O amadurecimento das soluções de autocustódia — como hardware wallets da Ledger e Trezor, além de carteiras mobile como Phoenix e Breez na Lightning Network — tornou o processo mais acessível que nunca.</p>
+      <blockquote>Mercados de predição representam a próxima fronteira da financeirização de informação. Com IA para análise e cripto para liquidação, estamos criando a infraestrutura para um mercado global de previsões descentralizado. — Posição da MoonPay sobre a aquisição</blockquote>
 
-      <p>Além disso, o crescimento do ecossistema DeFi nativo do Bitcoin, como o protocolo RGB e sidechains como a Liquid, oferece utilidade para Bitcoins mantidos em autocustódia, eliminando a necessidade de depositar em exchanges para obter rendimentos.</p>
+      <h3>Contexto</h3>
+      <p>O movimento da MoonPay acompanha uma tendência crescente de convergência entre inteligência artificial e criptomoedas. Empresas do setor têm buscado maneiras de combinar a capacidade analítica da IA com a eficiência de liquidação das blockchains.</p>
+
+      <p>Os mercados de predição, por sua vez, vêm ganhando relevância como ferramentas de hedge e especulação. Plataformas como Polymath e Augur processam centenas de milhões de dólares em apostas sobre eventos políticos, econômicos e esportivos. A entrada de uma processadora de pagamentos estabelecida como a MoonPay pode acelerar a adoção mainstream desse tipo de plataforma.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>A redução da oferta disponível em exchanges contribui diretamente para o choque de oferta que impulsiona o preço do Bitcoin. Com menos BTC disponíveis para negociação imediata, movimentos de compra têm impacto maior sobre o preço. Historicamente, períodos de forte saída de exchanges precederam as maiores altas do Bitcoin.</p>
+      <p>A aquisição da Dawn Labs e o lançamento da ferramenta de IA posicionam a MoonPay na interseção de dois setores de alto crescimento: inteligência artificial e mercados de predição descentralizados. Para o ecossistema cripto, o movimento sinaliza que empresas maduras estão buscando novos casos de uso além da mera negociação de criptomoedas.</p>
 
-      <p>Para o ecossistema, a autocustódia em massa também torna a rede mais resiliente: quanto mais distribuídos os Bitcoins, mais difícil se torna qualquer tentativa de ataque ou regulação adversa. A descentralização não é apenas um ideal filosófico — é a principal vantagem competitiva do Bitcoin sobre sistemas financeiros tradicionais.</p>
+      <h3>Consequências possíveis</h3>
+      <p>Se a integração entre IA e mercados de predição se mostrar bem-sucedida, podemos ver uma nova categoria de produtos financeiros emergindo: fundos de investimento baseados em algoritmos de previsão, seguros descentralizados com precificação dinâmica e derivativos de eventos do mundo real com liquidação automatizada.</p>
+
+      <h3>Análise BTC Ancap News</h3>
+      <p>A convergência entre IA e cripto é uma das tendências mais promissoras do setor, e a MoonPay está acertando ao buscar esse nicho. Mercados de predição têm o potencial de se tornar uma das aplicações mais valiosas da tecnologia blockchain, pois combinam transparência, liquidação instantânea e incentivos econômicos alinhados. A adição de IA como camada analítica pode ser o ingrediente que faltava para levar esses mercados ao grande público. O movimento merece atenção como indicador de para onde o setor está caminhando.</p>
     `,
-    comments: [
-      { author: 'Julio M.', date: '29 mai 2026', text: 'Autocustódia é o caminho. Não abro mão das minhas chaves desde 2021.' },
-    ]
+    comments: []
   },
   {
     id: 3,
-    title: 'ETFs de Bitcoin à vista quebram recordes: US$ 50 bilhões em AUM e demanda crescente',
-    excerpt: 'Produto financeiro mais bem-sucedido da história de Wall Street segue atraindo capital institucional e já movimenta mais de US$ 50 bilhões em ativos sob gestão.',
-    category: 'bitcoin',
-    categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=ETF+Bitcoin',
-    author: 'Gabriela Costa',
-    date: '28 mai 2026',
-    readTime: '7 min',
+    title: 'Circle capta US$ 222 milhões em pré-venda do token ARC para expandir ecossistema USDC',
+    excerpt: 'Emissora do USDC levanta US$ 222 milhões liderado pela a16z Crypto, com receita recorde de US$ 694 milhões no primeiro trimestre e circulação do USDC atingindo US$ 77 bilhões.',
+    category: 'economia',
+    categoryLabel: 'Economia',
+    image: 'https://placehold.co/800x400/1a5276/ffffff?text=Circle+ARC',
+    author: 'Redação BTC Ancap News',
+    date: '11 mai 2026',
+    readTime: '6 min',
     featured: true,
     body: `
-      <p>Os ETFs de Bitcoin à vista listados nos Estados Unidos atingiram a marca histórica de US$ 50 bilhões em ativos sob gestão (AUM), consolidando-se como o lançamento de ETF mais bem-sucedido da história de Wall Street. O fluxo de capital institucional não mostra sinais de desaceleração, com entradas líquidas semanais frequentemente superiores a US$ 1 bilhão.</p>
+      <p>A Circle, emissora da stablecoin USDC, anunciou a captação de US$ 222 milhões em uma pré-venda do token ARC, com participação de grandes fundos de venture capital liderados pela a16z Crypto. A notícia vem acompanhada de resultados financeiros recordes: a empresa registrou US$ 694 milhões em receita no primeiro trimestre de 2026.</p>
 
-      <h3>Um sucesso sem precedentes</h3>
-      <p>Quando a SEC aprovou os primeiros ETFs de Bitcoin à vista em janeiro de 2024, as projeções mais otimistas estimavam entre US$ 5 bilhões e US$ 10 bilhões no primeiro ano. O resultado real superou todas as expectativas por uma margem esmagadora. Em pouco mais de dois anos, os ETFs de Bitcoin acumulam mais de US$ 50 bilhões — um recorde absoluto que supera até mesmo o lendário QQQ (ETF do Nasdaq) em velocidade de adoção.</p>
+      <h3>O que aconteceu</h3>
+      <p>O token ARC é o novo ativo digital da Circle, desenhado para integrar o ecossistema USDC e oferecer funcionalidades de governança e utilidade dentro da plataforma. A pré-venda de US$ 222 milhões atraiu investidores institucionais de peso, com a a16z Crypto liderando a rodada.</p>
 
-      <blockquote>Nunca vimos nada parecido em 30 anos de mercado financeiro. A demanda reprimida por exposição a Bitcoin era imensa, e os ETFs foram a chave que destrancou esse fluxo. — Analista de ETFs da Bloomberg</blockquote>
+      <p>Os resultados financeiros da Circle reforçam a posição dominante da empresa no mercado de stablecoins. Com US$ 77 bilhões em USDC em circulação, a empresa processa bilhões de dólares em transações diariamente e se beneficia das taxas de juros sobre as reservas que lastreiam a stablecoin.</p>
 
-      <h3>Quem está comprando</h3>
-      <p>O perfil dos compradores é variado: desde gestoras multibilionárias como BlackRock e Fidelity até consultores financeiros independentes e investidores de varejo. Dados de participações institucionais revelam que fundos de pensão, dotação de universidades e seguradoras estão entre os detentores, sugerindo que o Bitcoin está sendo integrado a alocações estratégicas de longo prazo.</p>
+      <blockquote>O USDC não é apenas uma stablecoin — é a infraestrutura de pagamentos programáveis mais importante do mundo. O token ARC é o próximo passo na evolução desse ecossistema. — Posição da Circle sobre o lançamento</blockquote>
 
-      <p>O ETF da BlackRock (IBIT) lidera o mercado com mais de US$ 18 bilhões em AUM, seguido pelo FBTC da Fidelity com US$ 12 bilhões. A competição entre os emissores tem reduzido as taxas de administração para tão baixo quanto 0,12% ao ano — comparável a ETFs de índice tradicionais.</p>
+      <h3>Contexto</h3>
+      <p>A Circle tem se consolidado como uma das empresas mais lucrativas do setor cripto. Diferentemente de exchanges e mineradoras, que dependem da volatilidade do mercado, a Circle gera receita estável a partir das reservas que lastreiam o USDC — títulos do tesouro americano e outros ativos de baixo risco.</p>
 
-      <h3>Impacto no mercado de Bitcoin</h3>
-      <p>A existência dos ETFs criou um canal de demanda estrutural que o mercado de Bitcoin nunca havia experimentado. Diferentemente de ciclos anteriores, onde a demanda era puxada por especulação varejista, os ETFs representam capital paciente e institucional. Analistas estimam que os ETFs já absorveram o equivalente a mais de 85% de toda a emissão de novos Bitcoins desde o halving de 2024, exacerbando o choque de oferta.</p>
+      <p>Com US$ 77 bilhões em USDC em circulação e crescendo, a Circle se beneficia diretamente do ambiente de juros elevados nos Estados Unidos. Cada aumento de 1% nas taxas de juros representa centenas de milhões em receita adicional para a empresa.</p>
 
-      <p>Para o investidor brasileiro, existem alternativas como o ETF BITH11 da Hashdex, listado na B3, e fundos de índice internacionais acessíveis através de contas em corretoras globais. A tendência é de que a oferta de produtos regulados continue se expandindo, tornando o Bitcoin cada vez mais acessível ao investidor tradicional.</p>
+      <h3>Impacto no mercado</h3>
+      <p>A captação de US$ 222 milhões e o lançamento do token ARC fortalecem a posição da Circle como concorrente direta da Tether (USDT) no mercado de stablecoins. O USDC é amplamente considerado a stablecoin mais regulada e transparente, preferida por investidores institucionais que exigem conformidade regulatória.</p>
+
+      <p>O token ARC pode abrir novas fontes de receita para a Circle, além das tradicionais taxas de reserva, e criar um ecossistema mais amplo ao redor do USDC. A participação da a16z dá credibilidade adicional ao projeto.</p>
+
+      <h3>Consequências possíveis</h3>
+      <p>Se o token ARC for bem-sucedido, a Circle pode estabelecer um novo padrão para stablecoins: não apenas um meio de troca estável, mas uma plataforma completa com camada de governança e utilidade. Isso pode pressionar concorrentes como Tether e PayPal a lançarem produtos similares, aumentando a competição e a inovação no setor.</p>
+
+      <h3>Análise BTC Ancap News</h3>
+      <p>A Circle está construindo um dos negócios mais sólidos do ecossistema cripto. Com receita recorde, USDC em expansão e agora um token próprio, a empresa se diversifica para além do modelo tradicional de stablecoin. O token ARC representa uma aposta no futuro dos mercados financeiros tokenizados — e com US$ 222 milhões no bolso e a a16z como parceira, a Circle tem capital e credibilidade para executar sua visão. Para o mercado, mais competição no setor de stablecoins significa mais opções e melhores produtos para os usuários.</p>
     `,
-    comments: [
-      { author: 'Tiago N.', date: '28 mai 2026', text: 'ETF foi a porta de entrada para minha família. Agora todo mundo quer Bitcoin.' },
-      { author: 'Marina F.', date: '28 mai 2026', text: 'BlackRock comprando Bitcoin é algo que ninguém previa há 5 anos.' },
-    ]
+    comments: []
   },
   {
     id: 4,
-    title: 'Bitcoin mining com energia renovável atinge 60% da matriz energética global',
-    excerpt: 'Levantamento revela que a mineração de Bitcoin utiliza proporção de energia limpa superior a países como Alemanha e Reino Unido, silenciando críticas ambientais.',
-    category: 'bitcoin',
-    categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Green+Mining',
-    author: 'Lucas Mendes',
-    date: '27 mai 2026',
-    readTime: '6 min',
+    title: 'Galaxy e Sharplink lançam fundo DeFi institucional de US$ 125 milhões com Ether staked',
+    excerpt: 'Parceria entre a gestora de Mike Novogratz e a Sharplink cria fundo que converte US$ 100 milhões em Ether para staking, permitindo que instituições gerem yield sem vender ETH.',
+    category: 'cripto',
+    categoryLabel: 'Cripto',
+    image: 'https://placehold.co/800x400/7c3aed/ffffff?text=DeFi+Institucional',
+    author: 'Redação BTC Ancap News',
+    date: '11 mai 2026',
+    readTime: '5 min',
     featured: true,
     body: `
-      <p>Um novo levantamento do Bitcoin Mining Council revela que a mineração de Bitcoin utiliza 60% de energia renovável em sua matriz global — superando países como Alemanha (52%), Reino Unido (42%) e Estados Unidos (22%) em proporção de fontes limpas. O dado enterra de vez o argumento de que o Bitcoin é um "vilão ambiental".</p>
+      <p>A Galaxy Asset Management, gestora fundada por Mike Novogratz, firmou uma parceria com a Sharplink para lançar um fundo institucional de finanças descentralizadas (DeFi) no valor de US$ 125 milhões. A Sharplink contribuirá com US$ 100 milhões em Ether (ETH) que serão destinados a staking, gerando yield para investidores institucionais.</p>
 
-      <h3>Como a mineração se tornou verde</h3>
-      <p>A narrativa de que o Bitcoin consome "energia demais" sempre ignorou um fato crucial: mineradores são incentivados economicamente a buscar a energia mais barata disponível, que é frequentemente a energia renovável excedente. Hidrelétricas na China, energia geotérmica na Islândia, solar no Texas e gás natural queimado (flare gas) em campos de petróleo são fontes que, sem a mineração de Bitcoin, seriam simplesmente desperdiçadas.</p>
+      <h3>O que aconteceu</h3>
+      <p>O fundo será gerido pela Galaxy, que acumula mais de US$ 10 bilhões em ativos sob gestão no setor de criptomoedas. A Sharplink, por sua vez, aporta US$ 100 milhões em ETH que serão staked — ou seja, travados na rede Ethereum para validar transações em troca de recompensas.</p>
 
-      <blockquote>Bitcoin é o comprador de último recurso para energia excedente. Mineradores podem se instalar em qualquer lugar do mundo e absorver energia que, de outra forma, seria descartada. Isso transforma a mineração em um complemento perfeito para redes de energia renovável. — Bitcoin Mining Council</blockquote>
+      <p>O modelo permite que investidores institucionais obtenham exposição a rendimentos do ecossistema DeFi sem a complexidade operacional de gerenciar nós validadores ou interagir diretamente com protocolos descentralizados. A Galaxy cuida de toda a infraestrutura técnica e de compliance.</p>
 
-      <h3>Inovações na matriz energética mineradora</h3>
-      <p>O avanço da mineração renovável é impulsionado por diversas inovações. Nos Estados Unidos, mineradoras fecharam acordos com usinas solares e eólicas no Texas para absorver excedentes de produção durante picos de geração. Na Escandinávia, a energia hidrelétrica abundante é usada para alimentar data centers de mineração. Na África, startups estão testando mineração móvel em contêineres que se conectam a fontes de energia renovável em regiões off-grid.</p>
+      <blockquote>O staking de Ether se tornou uma das fontes de yield mais atrativas para investidores institucionais. Este fundo oferece exposição regulada a esse rendimento sem exigir que instituições operem infraestrutura blockchain própria. — Galaxy Asset Management</blockquote>
 
-      <p>A mais recente inovação é o uso de mineração para estabilizar a rede elétrica. Empresas como a MARA Holdings operam como "consumidores flexíveis": quando a demanda de energia da rede aumenta, elas desligam seus equipamentos voluntariamente, liberando energia para uso residencial e comercial. Esse serviço de resposta à demanda é remunerado pelas operadoras, criando uma nova fonte de receita para mineradoras.</p>
+      <h3>Contexto</h3>
+      <p>Desde que o Ethereum migrou para proof-of-stake em 2022 (The Merge), o staking de ETH se tornou um dos pilares da economia da rede. Atualmente, mais de 30% de todo o Ether em circulação está staked, gerando rendimentos anuais que variam entre 3% e 5% para validadores.</p>
 
-      <h3>Contexto e impacto</h3>
-      <p>O argumento ambiental contra o Bitcoin sempre foi falho por ignorar a diferença entre consumo de energia e impacto ambiental. O sistema financeiro tradicional — com seus bancos, agências, caixas eletrônicos, data centers e transporte de valores — consome uma quantidade massiva de energia. A grande diferença é que o Bitcoin pode usar energia remota e renovável que de outra forma seria desperdiçada. Com 60% da matriz já renovável e crescendo, a mineração de Bitcoin está no caminho para se tornar a indústria mais verde do planeta.</p>
+      <p>Para investidores institucionais, no entanto, o staking direto envolve riscos operacionais e de compliance que muitas vezes inviabilizam a participação. Fundos como o da Galaxy eliminam essas barreiras, oferecendo exposição ao yield do staking em um formato regulado e auditado.</p>
+
+      <h3>Impacto no mercado</h3>
+      <p>O lançamento do fundo é mais um sinal de amadurecimento do mercado DeFi. À medida que grandes gestoras como Galaxy criam veículos de investimento institucional para rendimentos descentralizados, mais capital institucional deve fluir para o ecossistema.</p>
+
+      <p>Para o Ethereum, o aumento do ETH staked através de fundos institucionais reduz a oferta circulante e fortalece a segurança da rede, criando um ciclo virtuoso semelhante ao observado no Bitcoin com a redução da oferta em exchanges.</p>
+
+      <h3>Consequências possíveis</h3>
+      <p>Se o fundo Galaxy-Sharplink for bem-sucedido, outras gestoras devem lançar produtos similares, acelerando a institutionalização do DeFi. O mercado de staking como serviço (staking-as-a-service) pode se tornar uma indústria bilionária, com bancos e gestoras oferecendo rendimentos de proof-of-stake para seus clientes como parte de alocações estratégicas.</p>
+
+      <h3>Análise BTC Ancap News</h3>
+      <p>O fundo Galaxy-Sharplink representa mais um passo na ponte entre Wall Street e o ecossistema descentralizado. O DeFi institucional é um mercado nascente com potencial enorme, e a Galaxy está bem posicionada para liderar esse movimento. Para o Ethereum, cada fundo desse tipo significa mais ETH fora de circulação e mais segurança para a rede. O rendimento do staking, embora modesto comparado a ativos de risco, oferece uma alternativa atrativa em um cenário de juros elevados. A tendência é que veículos como este se multipliquem nos próximos anos.</p>
     `,
-    comments: [
-      { author: 'Vitor E.', date: '27 mai 2026', text: 'Sempre defendi que Bitcoin não é vilão ambiental. Os números provam isso.' },
-    ]
+    comments: []
   },
   {
     id: 5,
-    title: 'Bitcoin como proteção patrimonial: por que investidores estão migrando do ouro para o BTC',
-    excerpt: 'Com valorização superior a 500% nos últimos 5 anos, o Bitcoin supera o ouro como reserva de valor e atrai cada vez mais investidores em busca de proteção patrimonial.',
+    title: 'Strategy retoma compras de Bitcoin com US$ 43 milhões e já acumula mais de 500 mil BTC',
+    excerpt: 'Empresa de Michael Saylor adquire mais US$ 43 milhões em Bitcoin após pausa estratégica, mantendo a maior tesouraria corporativa de BTC do mundo, com mais de meio milhão de moedas.',
     category: 'bitcoin',
     categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=BTC+vs+Ouro',
-    author: 'Rafael Torres',
-    date: '26 mai 2026',
-    readTime: '6 min',
+    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Strategy+43M',
+    author: 'Redação BTC Ancap News',
+    date: '11 mai 2026',
+    readTime: '5 min',
     featured: true,
     body: `
-      <p>O Bitcoin está consolidando sua posição como a principal reserva de valor da era digital, atraindo investidores que tradicionalmente alocavam capital em ouro e outros metais preciosos. Com uma valorização superior a 500% nos últimos cinco anos e uma capitalização de mercado que já ultrapassa US$ 1,6 trilhão, o BTC se estabelece como alternativa superior ao metal amarelo em múltiplos aspectos.</p>
+      <p>A Strategy (antiga MicroStrategy) voltou a comprar Bitcoin. A empresa de Michael Saylor adquiriu US$ 43 milhões em BTC, retomando sua estratégia de acumulação após uma breve pausa que gerou especulações sobre uma possível mudança de direção. Com esta compra, a Strategy solidifica sua posição como a maior detentora corporativa de Bitcoin do mundo, com mais de 500 mil BTC em tesouraria.</p>
 
-      <h3>Bitcoin vs Ouro: uma comparação objetiva</h3>
-      <p>O ouro é valorizado há milênios por suas propriedades físicas: escasso, durável, divisível e portátil. O Bitcoin possui exatamente as mesmas propriedades — mas em formato digital superior. Enquanto o ouro precisa ser extraído, fundido, transportado e armazenado em cofres com custos significativos, o Bitcoin pode ser enviado para qualquer lugar do mundo em minutos com taxas ínfimas.</p>
+      <h3>O que aconteceu</h3>
+      <p>A compra de US$ 43 milhões foi realizada ao preço médio de aproximadamente US$ 81.500 por Bitcoin, de acordo com documentos divulgados pela empresa. A aquisição ocorre semanas após Michael Saylor ter sugerido que a empresa poderia considerar vender parte de suas participações para financiar dividendos — declaração que gerou preocupação entre investidores.</p>
 
-      <p>Mais importante: a escassez do Bitcoin é absoluta e matematicamente verificável — 21 milhões, nem um a mais. O ouro, por outro lado, continua sendo minerado a taxas crescentes, com estimativas de que a oferta global aumenta de 1% a 2% ao ano. Não há garantia de que novas jazidas ou tecnologias de mineração não tornem o ouro mais abundante no futuro.</p>
+      <p>A retomada das compras sinaliza que a Strategy continua comprometida com sua tese de que o Bitcoin é o melhor ativo de reserva para tesourarias corporativas. Desde que iniciou sua estratégia de acumulação em 2020, a empresa já investiu mais de US$ 16 bilhões em BTC a preços médios variados.</p>
 
-      <blockquote>Bitcoin é ouro digital. Ele possui todas as qualidades do ouro como dinheiro, mas em um formato superior para o século XXI. É escasso, portátil, divisível e verificável — sem as limitações físicas do metal. — Saifedean Ammous, autor de "The Bitcoin Standard"</blockquote>
+      <blockquote>Bitcoin é o ativo mais escasso do mundo. Não há tesouraria corporativa responsável que ignore isso. A Strategy continua comprando porque os fundamentos do BTC são mais fortes hoje do que nunca. — Posição da Strategy sobre a compra</blockquote>
 
-      <h3>O movimento de migração</h3>
-      <p>Grandes gestoras de ativos estão liderando a migração. A BlackRock, maior gestora do mundo com mais de US$ 10 trilhões em ativos, recomenda alocações de 1% a 3% em Bitcoin em portfólios multiativos. Fundos de pensão noruegueses, canadenses e americanos já expõem seus cotistas ao BTC através de ETFs e produtos estruturados.</p>
+      <h3>Contexto</h3>
+      <p>A Strategy, originalmente uma empresa de software empresarial, se transformou em uma referência global de tesouraria corporativa em Bitcoin sob o comando de Michael Saylor. A empresa converteu grande parte de suas reservas de caixa em BTC e passou a emitir dívida conversível especificamente para financiar novas compras da criptomoeda.</p>
 
-      <p>No Brasil, o movimento segue a mesma tendência. Fundos multimercado passaram a incluir exposição indireta a Bitcoin via ETFs estrangeiros, e assessores de investimento recomendam cada vez mais a diversificação com criptomoedas. A gestora Hashdex oferece produtos regulados que permitem exposição ao Bitcoin com segurança e conformidade.</p>
+      <p>A breve pausa nas compras — a primeira em mais de dois anos — havia levantado questões sobre se a empresa estaria mudando de estratégia. Saylor alimentou ainda mais a especulação ao mencionar a possibilidade de usar parte do BTC para pagar dividendos. A nova compra de US$ 43 milhões dissipa essas dúvidas e reafirma o compromisso da empresa com a acumulação.</p>
 
-      <h3>Perspectivas para o mercado</h3>
-      <p>Com o aumento da adoção institucional e a redução da oferta disponível pós-halving, a tendência é de que o Bitcoin continue ganhando participação no mercado de reserva de valor. Se o BTC atingir uma capitalização equivalente ao mercado de ouro (cerca de US$ 13 trilhões), cada Bitcoin valeria aproximadamente US$ 620 mil. Mesmo cenários mais conservadores projetam pelo menos US$ 200 mil a US$ 250 mil até o topo do ciclo atual.</p>
+      <h3>Impacto no mercado</h3>
+      <p>Cada compra da Strategy reduz a oferta circulante de Bitcoin disponível no mercado, contribuindo para o choque de oferta que impulsiona o preço. Com mais de 500 mil BTC — aproximadamente 2,4% de todo o supply que existirá — a Strategy é uma força relevante no mercado.</p>
+
+      <p>A retomada das compras também tem efeito psicológico: sinaliza que um dos maiores defensores corporativos do Bitcoin continua confiante na valorização de longo prazo do ativo, o que pode incentivar outras empresas a seguir o mesmo caminho.</p>
+
+      <h3>Consequências possíveis</h3>
+      <p>A compra de US$ 43 milhões pode ser o início de uma nova rodada de acumulação pela Strategy. Se a empresa continuar comprando no ritmo observado em 2024-2025, sua posição total pode se aproximar de 600 mil BTC até o final de 2026.</p>
+
+      <p>Mais importante, a retomada das compras pela Strategy pode incentivar outras empresas cotadas em bolsa a seguirem o mesmo modelo de tesouraria em Bitcoin. Empresas como Block, Coinbase e Strive já adotaram estratégias similares, e o movimento da Strategy pode acelerar essa tendência.</p>
+
+      <h3>Análise BTC Ancap News</h3>
+      <p>A volta da Strategy ao mercado comprando Bitcoin é um sinal poderoso. Quando a maior detentora corporativa de BTC retoma suas aquisições, o mercado inteiro presta atenção. A breve pausa e a menção a dividendos podem ter sido uma jogada tática — ou apenas ruído — mas o resultado prático é o mesmo: mais BTC saindo do mercado circulante e indo para uma tesouraria de longo prazo. Para quem acompanha a tese do choque de oferta, cada compra da Strategy é mais um tijolo no muro da escassez. Com mais de 500 mil BTC fora de circulação, o aperto de oferta só se intensifica.</p>
     `,
     comments: []
   },
   {
     id: 6,
-    title: 'O halving do Bitcoin completa dois anos: os efeitos da escassez programada no preço e na rede',
-    excerpt: 'Dois anos após o halving de 2024, a redução da emissão de novos BTC já mostra impacto concreto no mercado. Oferta reduzida e demanda crescente criam cenário único.',
+    title: 'Fundos cripto registram 6ª semana consecutiva de influxos: US$ 858 milhões com Bitcoin liderando',
+    excerpt: 'CoinShares reporta que produtos de investimento em criptomoedas atraíram US$ 858 milhões na última semana, com Bitcoin respondendo por US$ 706 milhões e shorts sendo liquidados.',
     category: 'bitcoin',
     categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Halving+BTC',
-    author: 'Gabriela Costa',
-    date: '25 mai 2026',
-    readTime: '5 min',
+    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Influxos+Recorde',
+    author: 'Redação BTC Ancap News',
+    date: '11 mai 2026',
+    readTime: '6 min',
     featured: true,
     body: `
-      <p>Em maio de 2026, o halving do Bitcoin de 2024 completa dois anos — tempo suficiente para avaliar seus efeitos concretos no mercado. O evento, que reduziu a emissão diária de novos Bitcoins de 900 para 450 unidades, é o mecanismo central que torna o Bitcoin o ativo com a política monetária mais previsível e rígida já criada.</p>
+      <p>Os produtos de investimento em criptomoedas (ETPs) registraram a sexta semana consecutiva de influxos líquidos positivos, totalizando US$ 858 milhões no período, de acordo com o mais recente relatório da CoinShares. O Bitcoin liderou as entradas com US$ 706 milhões, enquanto os fundos de short em Bitcoin registraram US$ 14 milhões em saídas — sinal de que o sentimento do mercado está se tornando cada vez mais otimista.</p>
 
-      <h3>O que é o halving e por que importa</h3>
-      <p>A cada 210 mil blocos minerados (aproximadamente quatro anos), a recompensa dos mineradores é cortada pela metade. Esse processo continuará até que todos os 21 milhões de Bitcoins tenham sido emitidos, por volta do ano 2140. Diferentemente de qualquer moeda fiduciária, a política monetária do Bitcoin é imutável e independente de decisões políticas ou econômicas.</p>
+      <h3>O que aconteceu</h3>
+      <p>A CoinShares, gestora líder em ativos digitais, divulgou que os fluxos institucionais para produtos cripto continuam robustos. A marca de seis semanas consecutivas de influxos não era atingida desde o verão de 2025, quando os ETPs acumularam US$ 7,57 bilhões em uma sequência de sete semanas.</p>
 
-      <p>Historicamente, cada halving foi seguido por um rali de alta significativo. Doze meses após o halving de 2012, o Bitcoin subiu 8.000%. Após o halving de 2016, a alta foi de 2.800%. Em 2020, o rali pós-halving atingiu 600%. O padrão é claro: oferta reduzida + demanda crescente = valorização.</p>
+      <p>Os dados mostram que o Bitcoin dominou as entradas com US$ 706 milhões (82% do total), seguido por produtos multifundos (multi-asset) e altcoins. Os produtos de short em Bitcoin, que apostam na queda do preço, registraram saídas de US$ 14 milhões, indicando que investidores estão encerrando posições baixistas.</p>
 
-      <blockquote>Halvings são o lembrete mais poderoso da diferença fundamental entre Bitcoin e dinheiro estatal. Enquanto bancos centrais podem imprimir trilhões indefinidamente, o Bitcoin corta sua própria emissão pela metade a cada quatro anos, sem pedir permissão a ninguém. — Análise BTC Ancap News</blockquote>
+      <blockquote>O fluxo consistente de capital para ETPs cripto por seis semanas seguidas é um sinal inequívoco de que o sentimento institucional mudou. Gestores de ativos estão realocando capital para cripto de forma estruturada e crescente. — Relatório CoinShares</blockquote>
 
-      <h3>O cenário atual pós-halving</h3>
-      <p>Dois anos após o halving de 2024, o Bitcoin negocia acima de US$ 80 mil, representando uma valorização de mais de 150% desde o evento. A taxa de hash da rede atingiu máximos históricos, indicando que mineradores eficientes não apenas sobreviveram ao choque de receita, como estão prosperando.</p>
+      <h3>Contexto do mercado</h3>
+      <p>A sequência de influxos coincide com um período de recuperação do preço do Bitcoin, que voltou a operar acima dos US$ 80 mil após as turbulências geopolíticas de abril. Os ETFs de Bitcoin à vista nos Estados Unidos têm sido o principal canal de entrada de capital institucional, com volumes diários frequentemente superiores a US$ 500 milhões.</p>
 
-      <p>O choque de oferta criado pelo halving foi amplificado pela demanda dos ETFs de Bitcoin à vista, que absorvem diariamente uma quantidade de BTC superior à nova emissão. Analistas estimam que, mantida a demanda atual, o desequilíbrio entre oferta e demanda se tornará ainda mais severo nos próximos meses, potencialmente impulsionando o preço a novos patamares.</p>
+      <p>Analistas da CoinShares destacam que gestores de fundos estão "gradualmente aumentando a exposição a cripto", com o Bitcoin liderando as alocações. O relatório também aponta que a nomeação de um novo presidente do Federal Reserve pode ser um catalisador para a retomada do rali.</p>
 
-      <h3>O futuro da emissão</h3>
-      <p>O próximo halving está previsto para 2028, quando a recompensa dos mineradores cairá para 225 BTC por bloco. A taxa de inflação anual do Bitcoin, atualmente em torno de 0,8%, cairá para aproximadamente 0,4% — inferior à inflação de praticamente qualquer moeda fiduciária estável. Para efeito de comparação, a meta de inflação do Banco Central do Brasil é de 3% ao ano, e a inflação real frequentemente supera os 10%.</p>
+      <h3>Impacto no mercado</h3>
+      <p>O fluxo contínuo de capital institucional cria uma pressão de compra estrutural que contrasta com a volatilidade típica do mercado cripto varejista. Cada semana de influxos reduz a oferta disponível de BTC nas exchanges, amplificando o chamado "choque de oferta" que muitos analistas apontam como o principal motor de alta do ciclo atual.</p>
 
-      <p>A escassez programada do Bitcoin não é apenas uma característica técnica — é a base de sua proposta de valor como dinheiro sólido. Em um mundo onde governos imprimem dinheiro sem limites, ter um ativo cuja oferta é matematicamente limitada a 21 milhões de unidades é, em si mesmo, um ato de resistência financeira.</p>
+      <p>A saída de US$ 14 milhões de fundos de short é particularmente significativa: indica que mesmo os investidores mais pessimistas estão perdendo a convicção baixista, o que reduz a pressão vendedora e pode levar a um short squeeze se o preço continuar subindo.</p>
+
+      <h3>Consequências possíveis</h3>
+      <p>Se a tendência de influxos se mantiver por mais algumas semanas, o mercado pode testar resistências importantes na faixa dos US$ 85 mil a US$ 92 mil. O acúmulo de capital institucional cria uma base sólida de suporte que tende a reduzir a profundidade de correções.</p>
+
+      <h3>Análise BTC Ancap News</h3>
+      <p>Seis semanas seguidas de influxos é um dado que não pode ser ignorado. O capital institucional não está mais "testando as águas" — está alocando de forma consistente e crescente. A dominância do Bitcoin nesses fluxos (82%) reforça a tese de que o BTC é a porta de entrada preferencial para investidores institucionais no mercado cripto. Combinado com a saída de fundos de short, o cenário sugere que o mercado está se posicionando para um movimento de alta sustentável, não apenas mais um rali especulativo.</p>
     `,
     comments: []
   },
   {
     id: 7,
-    title: 'Nações adotam Bitcoin como reserva estratégica: o novo padrão ouro do século XXI',
-    excerpt: 'Países como EUA, El Salvador e Argentina estão acumulando Bitcoin em seus balanços nacionais. A tendência de adoção soberana pode transformar o mercado global.',
-    category: 'bitcoin',
-    categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=BTC+Reserva+Estrat%C3%A9gica',
-    author: 'Lucas Mendes',
-    date: '24 mai 2026',
-    readTime: '7 min',
+    title: 'Augustus recebe aprovação do OCC dos EUA para criar banco com IA e liquidação em stablecoin',
+    excerpt: 'Startup apoiada por Peter Thiel obtém aprovação condicional do Escritório do Controlador da Moeda para operar banco nacional focado em pagamentos com IA e stablecoins.',
+    category: 'economia',
+    categoryLabel: 'Economia',
+    image: 'https://placehold.co/800x400/1a5276/ffffff?text=Augustus+OCC',
+    author: 'Redação BTC Ancap News',
+    date: '11 mai 2026',
+    readTime: '5 min',
     featured: true,
     body: `
-      <p>Uma das tendências mais significativas do mercado de Bitcoin em 2026 é a adoção do ativo como reserva estratégica por nações soberanas. O que começou como uma experiência em El Salvador em 2021 evoluiu para um movimento global, com países de diferentes continentes incluindo Bitcoin em seus balanços nacionais.</p>
+      <p>A Augustus, startup de tecnologia financeira apoiada pelo bilionário Peter Thiel, recebeu aprovação condicional do Office of the Comptroller of the Currency (OCC) dos Estados Unidos para operar como banco nacional. A instituição terá como foco pagamentos baseados em inteligência artificial e liquidação em stablecoins — um marco regulatório histórico para a convergência entre finanças tradicionais e criptomoedas.</p>
 
-      <h3>Quem está comprando e por quê</h3>
-      <p>Os Estados Unidos lideram o movimento de forma indireta, com diversos estados americanos — incluindo Texas, Ohio e Wyoming — criando reservas estratégicas de Bitcoin em nível estadual. Projetos de lei em âmbito federal propõem que o Tesouro americano adquira Bitcoin como ativo de reserva, reconhecendo seu valor como proteção contra a desvalorização do dólar e a crescente dívida pública.</p>
+      <h3>O que aconteceu</h3>
+      <p>A aprovação condicional do OCC permite que a Augustus inicie operações bancárias sob supervisão federal, mas sujeita a condições específicas que precisam ser cumpridas antes do início pleno das operações. A empresa planeja usar inteligência artificial para automatizar processos de conformidade, avaliação de risco e detecção de fraudes, enquanto utiliza stablecoins como USDC para liquidação de pagamentos em tempo real.</p>
 
-      <p>El Salvador continua sendo o exemplo mais avançado de adoção soberana. Com mais de 5.700 BTC em sua tesouraria nacional, o país centro-americano colhe os frutos de sua aposta: a valorização do Bitcoin permitiu ao governo financiar projetos de infraestrutura, escolas e hospitais sem recorrer a emissão monetária ou endividamento externo.</p>
+      <p>Peter Thiel, cofundador do PayPal e investidor inicial do Facebook, é um dos principais apoiadores da Augustus. Sua participação no projeto adiciona peso político e financeiro à iniciativa, que busca criar uma ponte regulada entre o sistema financeiro tradicional e o ecossistema de ativos digitais.</p>
 
-      <blockquote>Bitcoin é uma ferramenta de soberania financeira para nações em desenvolvimento. Permite que países pequenos se protejam da inflação global e do domínio das moedas de reserve. — Nayib Bukele, Presidente de El Salvador</blockquote>
+      <blockquote>O futuro do sistema bancário será construído sobre trilhos de blockchain e inteligência artificial. A aprovação do OCC valida que é possível inovar dentro do sistema regulatório, não contra ele. — Posição da Augustus sobre a aprovação</blockquote>
 
-      <h3>O movimento se espalha</h3>
-      <p>A Argentina, mesmo com sua abordagem mais cautelosa, deu passos concretos ao permitir transações internacionais em Bitcoin e incluir o ativo em discussões sobre reservas cambiais. O governo de Javier Milei, abertamente libertário, vê no Bitcoin uma ferramenta para dolarizar a economia argentina sem depender exclusivamente do Federal Reserve americano.</p>
+      <h3>Contexto</h3>
+      <p>O OCC, agência federal que regula bancos nacionais nos EUA, tem adotado uma postura cada vez mais favorável à inovação em ativos digitais nos últimos anos. A aprovação condicional da Augustus segue-se a outras iniciativas do órgão para integrar tecnologia blockchain ao sistema bancário tradicional.</p>
 
-      <p>Na Suíça, cidades como Lugano já aceitam Bitcoin para pagamento de impostos, e há discussões em nível nacional sobre a inclusão de BTC nas reservas do Banco Central suíço. O país, conhecido por sua tradição de neutralidade e solidez financeira, seria um marco importante na legitimação do Bitcoin como ativo de reserva.</p>
-
-      <p>Outros países — incluindo Emirados Árabes Unidos, Cingapura e Paraguai — anunciaram estudos ou pilotos para incorporar Bitcoin em suas estratégias de reservas nacionais, sugerindo que a tendência é global e acelerada.</p>
+      <p>A abordagem da Augustus é significativamente diferente de outros projetos cripto-bancários: em vez de oferecer custódia de criptomoedas ou negociação, o foco está em pagamentos e liquidação. A empresa quer usar IA para reduzir custos operacionais e stablecoins para acelerar a liquidação de transações, oferecendo serviços bancários tradicionais com infraestrutura moderna.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>A adoção soberana de Bitcoin cria uma camada de demanda completamente nova para o mercado. Diferentemente de investidores individuais ou institucionais, nações soberanas operam com horizontes de tempo medidos em décadas e não são influenciadas por flutuações de curto prazo. Cada país que adota Bitcoin como reserva estratégica retira milhões de dólares em BTC do mercado circulante, contribuindo para o choque de oferta que impulsiona o preço.</p>
+      <p>A aprovação do OCC é um sinal claro de que os reguladores americanos estão abertos a modelos híbridos que combinem tecnologia blockchain com estrutura bancária tradicional. Isso pode abrir caminho para outras startups seguirem o mesmo modelo, acelerando a adoção de stablecoins no sistema financeiro mainstream.</p>
 
-      <p>Se a tendência continuar, o cenário de "corrida entre nações" por Bitcoin — similar à corrida do ouro do século XIX — pode se materializar, com governos competindo por um ativo cada vez mais escasso. Nesse cenário, projeções de US$ 500 mil a US$ 1 milhão por Bitcoin deixam de ser fantasiosas e se tornam possibilidades concretas.</p>
+      <p>Para o mercado de criptomoedas, a validação regulatória é um desenvolvimento positivo de longo prazo. Cada aprovação como esta reduz a incerteza jurídica e incentiva mais capital institucional a entrar no setor.</p>
+
+      <h3>Consequências possíveis</h3>
+      <p>Se a Augustus for bem-sucedida em sua operação, podemos ver uma nova geração de "neobancos cripto-nativos" surgindo nos EUA e em outras jurisdições. O modelo de banco com IA e liquidação em stablecoin pode se tornar o padrão para instituições financeiras do século XXI.</p>
+
+      <h3>Análise BTC Ancap News</h3>
+      <p>A aprovação da Augustus pelo OCC é um marco que merece atenção. Não se trata de mais uma exchange ou custodians recebendo licença — é um banco nacional legítimo com tecnologia blockchain no centro de suas operações. O envolvimento de Peter Thiel adiciona credibilidade e mostra que o establishment financeiro está levando a sério a convergência entre IA, stablecoins e bancos. Para o ecossistema Bitcoin, o desenvolvimento é positivo indiretamente: mais integração entre cripto e sistema financeiro tradicional fortalece o mercado como um todo, mesmo que o foco aqui seja stablecoins, não BTC.</p>
     `,
     comments: []
   },
   {
     id: 8,
-    title: 'Como o Bitcoin está transformando remessas internacionais em países em desenvolvimento',
-    excerpt: 'Trabalhadores imigrantes estão economizando bilhões em taxas ao usar Bitcoin e criptomoedas para enviar dinheiro para suas famílias.',
+    title: 'Capital B levanta US$ 17,8 milhões para expandir tesouraria em Bitcoin com apoio de Adam Back',
+    excerpt: 'Gestora focada em tesouraria corporativa de BTC capta recursos com participação do criador do Hashcash e CEO da Blockstream, reforçando tese de adoção institucional.',
     category: 'bitcoin',
     categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/059669/ffffff?text=Remessas+Internacionais',
-    author: 'Rafael Torres',
-    date: '23 mai 2026',
+    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Capital+B+BTC',
+    author: 'Redação BTC Ancap News',
+    date: '11 mai 2026',
     readTime: '5 min',
     featured: true,
     body: `
-      <p>As remessas internacionais sempre foram um negócio lucrativo para empresas tradicionais como Western Union e MoneyGram, que cobram taxas que podem chegar a 10% ou mais do valor enviado. Para trabalhadores imigrantes que enviam dinheiro para suas famílias, isso representa uma perda bilionária anual.</p>
+      <p>A Capital B, gestora especializada em tesouraria corporativa de Bitcoin, anunciou a captação de US$ 17,8 milhões em nova rodada de investimento. A rodada contou com a participação de Adam Back, CEO da Blockstream e criador do Hashcash (precursor técnico do proof-of-work do Bitcoin), e da TOBAM, gestora francesa de ativos com mais de US$ 10 bilhões sob gestão.</p>
 
-      <p>O Bitcoin e, especialmente, a Lightning Network estão mudando radicalmente esse cenário. Com transações quase instantâneas e taxas inferiores a 1%, trabalhadores em países desenvolvidos podem enviar dinheiro para suas famílias em países em desenvolvimento de forma mais eficiente.</p>
+      <h3>O que aconteceu</h3>
+      <p>Com os US$ 17,8 milhões captados, a Capital B planeja adicionar aproximadamente 182 BTC à sua tesouraria, aos preços atuais de mercado. A empresa segue uma estratégia similar à da Strategy (antiga MicroStrategy), focada em acumulação de Bitcoin como ativo de reserva primário para geração de valor de longo prazo.</p>
+
+      <p>A participação de Adam Back é particularmente significativa. Back é uma das figuras mais respeitadas do ecossistema Bitcoin, tendo criado o Hashcash em 1997 — o sistema de proof-of-work que Satoshi Nakamoto incorporou ao Bitcoin. Seu investimento pessoal na Capital B é um selo de aprovação para o modelo de tesouraria corporativa em BTC.</p>
+
+      <blockquote>Bitcoin é a forma mais pura de dinheiro sólido que já criamos. Empresas que entendem isso e constroem tesourarias em BTC estão se protegendo da inflação e se posicionando para o futuro das finanças. — Adam Back, CEO da Blockstream</blockquote>
+
+      <h3>Contexto</h3>
+      <p>A Capital B faz parte de uma tendência crescente de gestoras especializadas em tesouraria de Bitcoin. Diferentemente de fundos de hedge que negociam ativamente, a Capital B adota uma abordagem de comprar e segurar (buy and hold), oferecendo exposição ao Bitcoin para investidores institucionais que desejam alocação estratégica sem a complexidade de custodiar o ativo diretamente.</p>
+
+      <p>O mercado de tesouraria corporativa em Bitcoin tem crescido significativamente desde que a MicroStrategy (agora Strategy) iniciou sua estratégia em 2020. Empresas como Block, Coinbase, Metaplanet, Strive e Semler Scientific também mantêm Bitcoin em seus balanços, e gestoras como a Capital B oferecem veículos para investidores que querem exposição ao BTC sem comprar ações de empresas individuais.</p>
+
+      <h3>Impacto no mercado</h3>
+      <p>Cada novo veículo de investimento em Bitcoin retira BTC do mercado circulante e o coloca em mãos de investidores de longo prazo. A Capital B, com seus US$ 17,8 milhões, adiciona aproximadamente 182 BTC à categoria de "holdings de longo prazo", contribuindo para o choque de oferta.</p>
+
+      <p>A participação de Adam Back como investidor também tem valor simbólico: uma das mentes fundacionais do Bitcoin apostando em tesourarias corporativas de BTC é um sinal de que o mercado de ativos digitais está amadurecendo além do varejo especulativo.</p>
+
+      <h3>Consequências possíveis</h3>
+      <p>Com o sucesso da Capital B, mais gestoras especializadas em tesouraria Bitcoin devem surgir, criando novos canais de demanda institucional para o BTC. O mercado de "Bitcoin treasury management" pode se tornar um setor relevante dentro do ecossistema de ativos digitais, especialmente se mais empresas adotarem o modelo de reserva em Bitcoin.</p>
+
+      <h3>Análise BTC Ancap News</h3>
+      <p>A captação da Capital B é mais um tijolo no muro da adoção institucional do Bitcoin. Ter Adam Back como investidor não é apenas um selo de credibilidade — é a confirmação de que as pessoas que construíram as bases técnicas do Bitcoin também acreditam em seu valor como ativo de tesouraria. O movimento reforça a tese de que o BTC está se consolidando como uma classe de ativo legítima para alocação institucional de longo prazo.</p>
     `,
-    comments: [
-      { author: 'Juan P.', date: '23 mai 2026', text: 'Como imigrante, posso confirmar. Economizo mais de US$ 200 por mês desde que comecei a usar Bitcoin.' },
-    ]
+    comments: []
   },
   {
     id: 9,
-    title: 'Análise técnica: resistência de US$ 100 mil pode ser testada antes da próxima perna de alta',
-    excerpt: 'Analistas apontam que um recuo para testar a resistência dos US$ 100 mil seria saudável antes da continuidade do movimento altista.',
-    category: 'cripto',
-    categoryLabel: 'Cripto',
-    image: 'https://placehold.co/800x400/7c3aed/ffffff?text=An%C3%A1lise+T%C3%A9cnica',
-    author: 'Gabriela Costa',
-    date: '22 mai 2026',
-    readTime: '4 min',
+    title: 'Bitcoin sobe 2,3% com tensão geopolítica: BTC se fortalece como proteção em meio a crise entre EUA e Irã',
+    excerpt: 'Bitcoin reage à escalada de tensões no Oriente Médio com alta de 2,3%, testando resistência dos US$ 82 mil e reforçando tese de ativo de proteção em cenários de incerteza global.',
+    category: 'bitcoin',
+    categoryLabel: 'Bitcoin',
+    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=BTC+Geopol%C3%ADtica',
+    author: 'Redação BTC Ancap News',
+    date: '11 mai 2026',
+    readTime: '6 min',
     featured: true,
     body: `
-      <p>O mercado de criptomoedas entra em uma fase de consolidação após o forte rali recente. Analistas técnicos apontam que um teste à resistência dos US$ 100 mil para o Bitcoin seria um movimento saudável antes do próximo avanço.</p>
+      <p>O Bitcoin registrou alta de 2,3% após o presidente Donald Trump classificar como "inaceitável" uma proposta de paz do Irã, elevando as tensões geopolíticas no Oriente Médio. O movimento reforça a narrativa do Bitcoin como ativo de proteção (safe haven) em momentos de incerteza global, com a criptomoeda sendo negociada acima de US$ 81.900.</p>
 
-      <p>O indicador RSI (Relative Strength Index) mostra divergência de baixa no curto prazo, sugerindo que o mercado precisa de um período de resfriamento. No entanto, as médias móveis de 50 e 200 dias continuam em tendência fortemente altista.</p>
+      <h3>O que aconteceu</h3>
+      <p>A declaração de Trump sobre a proposta iraniana gerou uma onda de aversão ao risco nos mercados tradicionais, mas o Bitcoin reagiu de forma oposta, subindo 2,3% e testando a resistência dos US$ 82 mil. O movimento é significativo porque ocorre em um contexto de funding rate neutro e posicionamento de mercado cauteloso, sugerindo que a alta foi impulsionada por compras à vista, não por alavancagem.</p>
+
+      <p>Markus Thielen, CEO da 10x Research, afirmou que a força do Bitcoin acima de US$ 80 mil "pode ser sustentada por duas decisões favoráveis no Senado americano esta semana", referindo-se a votações sobre regulamentação de criptomoedas que podem criar um ambiente mais favorável para o setor.</p>
+
+      <blockquote>O Bitcoin está se comportando cada vez mais como ouro digital em cenários de tensão geopolítica. Enquanto ações e moedas de mercados emergentes sofrem, o BTC se fortalece como reserva de valor descentralizada. — Análise BTC Ancap News</blockquote>
+
+      <h3>Contexto</h3>
+      <p>A correlação do Bitcoin com eventos geopolíticos tem evoluído ao longo dos anos. Nos primeiros anos, o BTC frequentemente caía junto com os mercados tradicionais em momentos de crise, comportando-se como ativo de risco. No entanto, à medida que a adoção institucional cresceu e o mercado amadureceu, o Bitcoin passou a apresentar características de reserva de valor em alguns cenários de incerteza.</p>
+
+      <p>A resposta positiva ao agravamento das tensões entre EUA e Irã é consistente com a tese de que o Bitcoin se beneficia da desconfiança em instituições centralizadas. Em última análise, o BTC é dinheiro que não depende de nenhum governo ou banco central — uma propriedade particularmente valiosa quando as relações geopolíticas se deterioram.</p>
+
+      <h3>Impacto no mercado</h3>
+      <p>A alta de 2,3% empurrou o Bitcoin para a região de resistência dos US$ 82 mil — o mesmo nível da média exponencial de 200 dias. Se o BTC conseguir romper e se consolidar acima desse patamar, o caminho para os US$ 85 mil e, posteriormente, US$ 95 mil fica mais claro.</p>
+
+      <p>O volume de negociação acompanhou a alta, um sinal técnico positivo que sugere participação genuína do mercado, não apenas movimento artificiais. Os ETFs de Bitcoin à vista registraram influxos líquidos no período, indicando que investidores institucionais também estão comprando a alta.</p>
+
+      <h3>Consequências possíveis</h3>
+      <p>Se as tensões geopolíticas continuarem se intensificando, o Bitcoin pode se beneficiar de um fluxo de "fuga para qualidade" (flight to quality), com investidores buscando ativos que não estejam sujeitos a sanções, congelamento ou controle de capital. No entanto, o cenário oposto — uma desescalada rápida — pode levar a uma realização parcial de lucros de curto prazo.</p>
+
+      <h3>Análise BTC Ancap News</h3>
+      <p>Ver o Bitcoin subindo em resposta a tensões geopolíticas é um sinal de maturidade do mercado. Durante anos, criticaram o BTC por ser "volátil demais para ser reserva de valor", ignorando que a volatilidade de curto prazo é o preço da descentralização. Agora, em meio a mais um conflito geopolítico, o Bitcoin demonstra exatamente a propriedade que seus defensores sempre apontaram: é dinheiro soberano, que ninguém pode congelar, inflacionar ou controlar. O nível dos US$ 82 mil continua sendo a linha na areia — consolidado acima dele, o BTC se fortalece tanto técnica quanto narrativamente.</p>
     `,
     comments: []
   },
   {
     id: 10,
-    title: 'Propriedade privada vs. função social: o debate filosófico do século',
-    excerpt: 'Uma análise aprofundada sobre os fundamentos filosóficos da propriedade privada e os argumentos libertários contra a intervenção estatal.',
-    category: 'ancap',
-    categoryLabel: 'Ancap',
-    image: 'https://placehold.co/800x400/1a1a2e/d4af37?text=Propriedade+Privada',
-    author: 'Lucas Mendes',
-    date: '21 mai 2026',
-    readTime: '10 min',
-    featured: true,
-    body: `
-      <p>O direito de propriedade é um dos pilares fundamentais da civilização. Filósofos como John Locke, Murray Rothbard e Hans-Hermann Hoppe construíram argumentos robustos sobre a centralidade da propriedade privada para a liberdade individual.</p>
-
-      <p>Em contraste, a teoria da "função social da propriedade" argumenta que o direito de propriedade é condicional — subordinado a supostos interesses coletivos definidos pelo Estado. Para os libertários, essa é a porta de entrada para o confisco e o autoritarismo.</p>
-
-      <p>Este artigo explora os fundamentos de ambas as posições e argumenta por que a propriedade privada absoluta é essencial para uma sociedade livre.</p>
-    `,
-    comments: [
-      { author: 'André B.', date: '21 mai 2026', text: 'Leitura obrigatória. Rothbard explicando propriedade privada de forma cristalina como sempre.' },
-      { author: 'Clara M.', date: '21 mai 2026', text: 'Excelente artigo! A função social é usada como justificativa para todo tipo de abuso estatal.' },
-    ]
-  },
-  {
-    id: 11,
-    title: 'Bitcoin em US$ 81 mil: "supercycle" ou rali de mercado baixista? Analistas se dividem',
-    excerpt: 'Com BTC acima de US$ 81 mil, o mercado se pergunta se estamos no início de um superciclo ou em mais um rali dentro de um mercado baixista. Projeções variam de US$ 180 mil a US$ 250 mil.',
+    title: 'ETFs de Bitcoin à vista registram semana de US$ 1,1 bilhão em influxos e já ultrapassam US$ 50 bilhões em AUM',
+    excerpt: 'Produtos financeiros baseados em BTC tiveram melhor semana desde janeiro com US$ 1,105 bilhão em entradas, acumulando mais de US$ 50 bilhões em ativos sob gestão.',
     category: 'bitcoin',
     categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Bitcoin+Supercycle',
+    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=ETF+Influxos',
     author: 'Redação BTC Ancap News',
-    date: '5 mai 2026',
+    date: '11 mai 2026',
     readTime: '6 min',
     featured: true,
     body: `
-      <p>O Bitcoin voltou a negociar acima de US$ 81 mil nesta segunda-feira, gerando um intenso debate entre analistas sobre a natureza do movimento atual. Enquanto alguns enxergam o início de um "superciclo" que levará o BTC a novos patamares históricos, outros alertam que pode tratar-se apenas de mais um rali dentro de uma tendência baixista de longo prazo.</p>
+      <p>Os ETFs de Bitcoin à vista listados nos Estados Unidos tiveram sua melhor semana desde janeiro, registrando US$ 1,105 bilhão em influxos líquidos. O volume expressivo empurrou o total de ativos sob gestão (AUM) dos ETFs de BTC para mais de US$ 50 bilhões, consolidando-os como o lançamento de ETF mais bem-sucedido da história de Wall Street.</p>
 
       <h3>O que aconteceu</h3>
-      <p>O Bitcoin atingiu US$ 81.386, registrando alta de 1,26% nas últimas 24 horas. O movimento foi impulsionado por uma combinação de fatores: acumulação por detentores de longo prazo, que adicionaram 330 mil BTC às carteiras no último mês, e influxos robustos em ETFs de Bitcoin à vista, que totalizaram US$ 532 milhões em recuperação pós-acordo de cessar-fogo.</p>
+      <p>Os dados, compilados pela CoinShares e confirmados por múltiplas fontes de mercado, mostram que a semana foi marcada por forte demanda institucional. Destaque para segunda-feira, quando os ETFs registraram US$ 532 milhões em influxos após o anúncio de cessar-fogo entre EUA e Irã, e para quarta e quinta-feira, que acumularam US$ 999 milhões em dois dias quando o Bitcoin ultrapassou novamente os US$ 80 mil.</p>
 
-      <p>No entanto, a resistência dos US$ 82 mil — que coincide com a média exponencial de 200 dias — permanece intocada, e o mercado observa atentamente se o BTC conseguirá romper esse nível ou sofrerá um novo rechaço.</p>
+      <p>A semana não foi totalmente linear: na sexta-feira, os ETFs registraram US$ 268 milhões em saídas quando o BTC estacionou na resistência dos US$ 82 mil, interrompendo uma sequência de cinco dias de influxos. No saldo semanal, no entanto, o resultado foi amplamente positivo.</p>
 
-      <blockquote>A diferença entre um superciclo e um rali de mercado baixista é a sustentabilidade. Se o Bitcoin não conseguir se firmar acima de US$ 85 mil nas próximas semanas, o movimento atual pode ser apenas mais um fakeout. — Relatório de análise técnica semanal</blockquote>
+      <blockquote>Os ETFs de Bitcoin se tornaram o canal preferencial para entrada de capital institucional no mercado cripto. Em semanas de otimismo, os influxos são impressionantes; em semanas de cautela, a saída é mínima. Isso sugere que o capital alocado aqui é estrutural, não especulativo. — Análise BTC Ancap News</blockquote>
 
       <h3>Contexto</h3>
-      <p>O termo "superciclo" ganhou popularidade entre analistas que acreditam que o Bitcoin, diferentemente de ciclos anteriores, não passará por um mercado baixista profundo devido à maturidade institucional do mercado. Os argumentos a favor incluem: adoção por ETFs que criam demanda estrutural, escassez crescente pós-halving, e participação de tesourarias corporativas que seguram BTC independentemente do preço.</p>
+      <p>Desde a aprovação histórica pela SEC em janeiro de 2024, os ETFs de Bitcoin à vista transformaram o mercado de criptomoedas. Eles criaram um canal regulado e acessível para que investidores institucionais — fundos de pensão, gestoras de ativos, seguradoras — ganhassem exposição ao Bitcoin sem precisar custodiar o ativo diretamente.</p>
 
-      <p>Por outro lado, analistas mais cautelosos apontam que o funding rate negativo prolongado — 66 dias consecutivos — sugere que o mercado de derivativos ainda não está convicto da alta. Além disso, o volume de negociação spot não acompanhou a recuperação de preço, um sinal técnico que historicamente precedeu correções.</p>
-
-      <p>Projeções otimistas variam de US$ 180 mil a US$ 250 mil como topo do ciclo, enquanto cenários mais conservadores apontam US$ 95 mil a US$ 100 mil como limite superior antes de uma correção significativa.</p>
+      <p>O ETF da BlackRock (IBIT) lidera o mercado com mais de US$ 18 bilhões em AUM, seguido pelo FBTC da Fidelity com US$ 12 bilhões. A competição entre os emissores tem reduzido as taxas de administração para tão baixo quanto 0,12% ao ano, tornando os produtos ainda mais atrativos.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>Independentemente do cenário, a volatilidade deve aumentar nas próximas semanas. Se o Bitcoin romper US$ 82 mil, a liquidação forçada de posições vendidas (short squeeze) pode impulsionar o preço rapidamente em direção a US$ 85 mil ou mais. Se o rompimento falhar, uma correção para a região de US$ 75 mil a US$ 70 mil seria considerada saudável antes da próxima tentativa.</p>
+      <p>O fluxo de US$ 1,1 bilhão em uma única semana é equivalente a aproximadamente 13.500 BTC comprados no mercado à vista — mais do que a emissão total de novos Bitcoins em quase um mês (cerca de 450 BTC/dia após o halving). Esse desequilíbrio entre oferta e demanda é o motor do chamado "choque de oferta".</p>
 
-      <p>Os mercados de predição dão 84% de chance de o Bitcoin testar US$ 84 mil nos próximos movimentos, refletindo otimismo cauteloso entre traders.</p>
+      <p>Analistas estimam que os ETFs já absorveram o equivalente a mais de 85% de toda a emissão de novos Bitcoins desde o halving de 2024, exacerbando a escassez e criando uma pressão de compra estrutural que tende a impulsionar o preço no médio prazo.</p>
 
       <h3>Consequências possíveis</h3>
-      <p>A definição entre superciclo e rali passageiro deve ocorrer nas próximas duas a quatro semanas. Se o Bitcoin conseguir se sustentar acima de US$ 85 mil e, especialmente, superar a barreira dos US$ 95 mil, a tese do superciclo ganha força. Caso contrário, o mercado pode entrar em uma nova fase de consolidação prolongada. Para investidores de longo prazo, no entanto, o cenário permanece favorável: a acumulação institucional e a escassez estrutural são tendências que transcendem ciclos de curto prazo.</p>
+      <p>Se o ritmo de influxos se mantiver, os ETFs de Bitcoin podem ultrapassar US$ 100 bilhões em AUM até o final de 2026. O impacto no preço do BTC será tanto direto (compras no mercado à vista) quanto indireto (sinal de confiança institucional que atrai mais investidores).</p>
+
+      <p>No entanto, a concentração de BTC em ETFs também levanta questões sobre centralização. Se uma parte significativa do supply de Bitcoin estiver sob custódia de algumas poucas gestoras, a narrativa de descentralização pode ser desafiada.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>O debate entre superciclo e rali baixista é, em certa medida, secundário para quem entende a proposta de valor do Bitcoin como dinheiro sólido. A volatilidade de curto prazo é o preço que se paga pela descentralização e pela escassez absoluta. O que importa observar é se os fundamentos — hashrate, endereços ativos, acumulação por LTHs e influxos institucionais — continuam se fortalecendo. Enquanto esses indicadores apontarem para cima, o Bitcoin estará construindo as bases para seu próximo grande movimento, independentemente de quanto tempo leve.</p>
+      <p>US$ 50 bilhões em AUM é um número impressionante por si só, mas o que realmente importa é o que ele representa: a validação do Bitcoin como classe de ativo legítima pelo sistema financeiro tradicional. Os ETFs não são apenas um canal de investimento — são a ponte que conecta o dinheiro inteligente de Wall Street à escassez programada do Bitcoin. A ressalva, do ponto de vista libertário do BTC Ancap News, é que a custódia centralizada de ETFs contradiz o princípio de "not your keys, not your coins". Ainda assim, como porta de entrada para novos convertidos, os ETFs têm um papel importante a desempenhar.</p>
+    `,
+    comments: []
+  },
+  {
+    id: 11,
+    title: 'Sete maiores pools de mineração de Bitcoin aderem ao Stratum V2 em marco histórico para descentralização',
+    excerpt: 'Principais pools de mineração do mundo se unem ao grupo de trabalho do Stratum V2, protocolo que devolve aos mineradores individuais o poder de escolher quais transações validar.',
+    category: 'bitcoin',
+    categoryLabel: 'Bitcoin',
+    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Stratum+V2',
+    author: 'Redação BTC Ancap News',
+    date: '11 mai 2026',
+    readTime: '5 min',
+    featured: true,
+    body: `
+      <p>Sete das maiores pools de mineração de Bitcoin do mundo aderiram ao grupo de trabalho do Stratum V2, um protocolo que promete revolucionar a mineração ao devolver aos mineradores individuais o poder de decidir quais transações incluir nos blocos. O movimento é considerado o maior avanço em direção à descentralização da mineração desde a criação do Bitcoin.</p>
+
+      <h3>O que aconteceu</h3>
+      <p>As sete pools — que juntas respondem por mais de 60% de toda a taxa de hash da rede Bitcoin — se comprometeram a implementar o Stratum V2 em suas operações. O protocolo, desenvolvido ao longo de anos pela comunidade Bitcoin, substitui o obsoleto Stratum V1, que concentra nas pools o poder de selecionar transações, tornando os mineradores individuais meros "escravos de hash".</p>
+
+      <p>Com o Stratum V2, os mineradores individuais podem criar seus próprios templates de bloco, escolhendo quais transações serão validadas. Isso reduz drasticamente o poder das pools de mineração de censurar transações e fortalece a resistência da rede a ataques ou coerção regulatória.</p>
+
+      <blockquote>O Stratum V2 é a atualização mais importante para a mineração de Bitcoin desde 2011. Ele devolve aos mineradores individuais o poder que foi cedido às pools por limitações técnicas que já não existem mais. — Desenvolvedor do protocolo Stratum V2</blockquote>
+
+      <h3>Contexto</h3>
+      <p>A mineração de Bitcoin evoluiu de uma atividade individual (qualquer pessoa com um CPU podia minerar em 2009) para uma indústria altamente concentrada, dominada por grandes pools e fabricantes de ASICs. O Stratum V1, criado em 2011, foi fundamental para permitir a mineração em pool, mas criou uma dependência indesejada: as pools detinham o monopólio da seleção de transações.</p>
+
+      <p>Isso significa que, teoricamente, uma pool poderia censurar transações de determinados endereços ou até mesmo favorecer certos tipos de transação. O Stratum V2 elimina essa vulnerabilidade ao permitir que cada minerador individual defina seu próprio template de bloco, mesmo quando participa de uma pool.</p>
+
+      <h3>Impacto no mercado</h3>
+      <p>A adoção do Stratum V2 pelas maiores pools fortalece a resistência à censura do Bitcoin — sua característica mais valiosa do ponto de vista libertário. Governos e reguladores que desejassem pressionar pools de mineração a censurar transações encontrariam muito mais dificuldade com o novo protocolo.</p>
+
+      <p>Para o mercado, a notícia é positiva no longo prazo: quanto mais descentralizada a mineração, mais segura e resistente a rede se torna, o que fortalece a tese de investimento no Bitcoin.</p>
+
+      <h3>Consequências possíveis</h3>
+      <p>Com a implementação do Stratum V2, a mineração de Bitcoin dá um passo significativo em direção à visão original de Satoshi Nakamoto: uma rede de pagamentos verdadeiramente descentralizada, onde nenhum participante tem poder de censurar transações. A tecnologia já existe — agora cabe à indústria implementá-la.</p>
+
+      <h3>Análise BTC Ancap News</h3>
+      <p>O Stratum V2 é, do ponto de vista libertário, uma das atualizações mais importantes da história do Bitcoin. Ele ataca diretamente um dos poucos pontos de centralização que restavam na rede: o poder das pools de mineração de selecionar transações. Sete pools representando mais de 60% do hashrate aderindo ao novo protocolo é um movimento que fortalece a resistência à censura do Bitcoin de forma concreta e mensurável. Em um mundo onde governos pressionam cada vez mais intermediários financeiros, ter uma rede de pagamentos onde nem mesmo os mineradores conseguem censurar transações é uma vantagem revolucionária.</p>
     `,
     comments: []
   },
   {
     id: 12,
-    title: 'Telegram se torna o maior validador da TON e Toncoin dispara 33%',
-    excerpt: 'Pavel Durov anuncia que o Telegram assumirá papel central na validação da rede TON, elevando o token em mais de 30% em horas.',
+    title: 'Coinbase restaura operações após falha da AWS: exchange precisou operar em modo de leilão',
+    excerpt: 'Exchange americana recorreu ao "modo leilão" para manter funcionalidade básica durante queda da infraestrutura da Amazon Web Services, expondo vulnerabilidade da centralização em nuvem.',
     category: 'cripto',
     categoryLabel: 'Cripto',
-    image: 'https://placehold.co/800x400/0088cc/ffffff?text=Telegram+TON',
+    image: 'https://placehold.co/800x400/0055aa/ffffff?text=Coinbase+AWS',
     author: 'Redação BTC Ancap News',
-    date: '5 mai 2026',
-    readTime: '6 min',
+    date: '11 mai 2026',
+    readTime: '5 min',
     featured: true,
     body: `
-      <p>Pavel Durov, fundador do Telegram, anunciou que a plataforma de mensagens se tornará o maior validador da rede TON (The Open Network). A decisão representa um aprofundamento significativo da integração entre o Telegram e o ecossistema TON, que já vinha crescendo com recursos como carteira integrada e pagamentos via criptomoedas.</p>
+      <p>A Coinbase, uma das maiores exchanges de criptomoedas do mundo, enfrentou uma interrupção significativa em seus serviços devido a uma falha na Amazon Web Services (AWS), a plataforma de computação em nuvem que hospeda grande parte de sua infraestrutura. Durante a queda, a exchange precisou ativar o chamado "modo leilão" (auction mode) para manter a funcionalidade básica de negociação.</p>
 
       <h3>O que aconteceu</h3>
-      <p>O TON sempre manteve uma relação simbiótica com o Telegram, embora formalmente fossem entidades separadas. Com este movimento, o Telegram deixa claro que vê a blockchain TON como uma infraestrutura estratégica para o futuro da plataforma, especialmente em áreas como pagamentos, mini-apps descentralizados e verificação de identidade.</p>
+      <p>A falha da AWS afetou múltiplos serviços da Coinbase, incluindo a interface de negociação e os sistemas de ordem. A exchange ativou seu protocolo de contingência, operando em "modo leilão" — um mecanismo onde as ordens são acumuladas e executadas em lotes periódicos, em vez de em tempo real contínuo. Após a estabilização da AWS, a Coinbase conseguiu restaurar o acesso completo à plataforma.</p>
 
-      <blockquote>Estamos apenas arranhando a superfície do que é possível quando uma plataforma com centenas de milhões de usuários encontra uma blockchain eficiente e escalável. — Pavel Durov</blockquote>
+      <p>O incidente gerou preocupação entre traders, que relataram dificuldades para acessar seus fundos e realizar operações durante o período de instabilidade. A Coinbase não reportou perda de fundos, mas o episódio expôs a dependência crítica das exchanges de criptomoedas em relação à infraestrutura centralizada de nuvem.</p>
+
+      <blockquote>Quando a infraestrutura da internet tradicional falha, as exchanges de criptomoedas lembram que, por mais descentralizado que o Bitcoin seja, as portas de entrada ainda dependem de servidores centralizados. — Análise BTC Ancap News</blockquote>
 
       <h3>Contexto</h3>
-      <p>O Telegram já havia integrado recursos cripto nos últimos anos, incluindo carteira custodiada, negociação de criptomoedas e suporte a mini-apps baseados em TON. A decisão de se tornar validador eleva o envolvimento a um novo patamar, dando ao Telegram influência direta sobre a governança e segurança da rede.</p>
+      <p>A AWS é de longe o maior provedor de computação em nuvem do mundo, hospedando uma fatia significativa de toda a internet. A Coinbase, como a maioria das grandes empresas de tecnologia, depende fortemente da AWS para suas operações. Isso cria um paradoxo para o ecossistema cripto: as ferramentas que permitem o acesso ao Bitcoin — supostamente a rede mais descentralizada do mundo — estão concentradas em um punhado de provedores de nuvem.</p>
+
+      <p>Não é a primeira vez que uma falha da AWS afeta exchanges de criptomoedas. Incidentes semelhantes já ocorreram com Binance, Kraken e a própria Coinbase em anos anteriores, levantando questões sobre a resiliência da infraestrutura centralizada que serve como porta de entrada para o mundo descentralizado.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>O token Toncoin reagiu imediatamente ao anúncio, registrando alta de 33,8% nas horas seguintes. O movimento elevou significativamente a capitalização de mercado do ativo, atraindo a atenção de investidores institucionais que antes mantinham distância do projeto.</p>
+      <p>O incidente teve impacto limitado no preço do Bitcoin, já que a rede em si continuou operando normalmente. No entanto, afetou a capacidade de milhares de usuários de negociar em um momento de baixa volatilidade, gerando frustração e reforçando a importância da autocustódia.</p>
+
+      <p>Para o mercado como um todo, episódios como esse servem como lembrete de que "not your keys, not your coins" também se aplica ao acesso: se a exchange está offline, seus fundos também estão efetivamente inacessíveis.</p>
 
       <h3>Consequências possíveis</h3>
-      <p>A validação direta pelo Telegram pode trazer maior estabilidade e segurança à rede TON, além de abrir caminho para novos recursos integrados ao mensageiro. Com mais de 900 milhões de usuários ativos, o Telegram tem potencial para levar adoção cripto a uma escala sem precedentes.</p>
+      <p>O incidente pode acelerar a adoção de infraestrutura descentralizada por exchanges e serviços cripto, como computação peer-to-peer ou soluções de nuvem distribuída. Também pode incentivar usuários a migrar para exchanges descentralizadas (DEXs) ou a assumir o controle direto de seus ativos via autocustódia.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>A decisão do Telegram marca um momento importante para a adoção em massa de criptomoedas. Ter centenas de milhões de usuários com acesso potencial a serviços financeiros descentralizados dentro de um mensageiro que já usam diariamente elimina uma das maiores barreiras de entrada no mercado cripto: a complexidade técnica. O TON se posiciona como uma das blockchains mais promissoras para aplicações reais no curto prazo.</p>
+      <p>Há uma ironia difícil de ignorar: a rede Bitcoin, que funciona ininterruptamente há mais de 15 anos sem depender de nenhuma empresa ou infraestrutura centralizada, continuou operando perfeitamente. O que falhou foi o intermediário centralizado que serve como porta de entrada. Este é o argumento mais poderoso para a autocustódia e para o uso direto da rede Bitcoin, sem intermediários. Enquanto você confiar seus Bitcoins a terceiros, estará sujeito não apenas aos riscos de contraparte, mas também aos caprichos da infraestrutura de nuvem de uma única empresa.</p>
     `,
     comments: []
   },
   {
     id: 13,
-    title: 'Produtos cripto registram 5ª semana consecutiva de influxos com US$ 4 bilhões',
-    excerpt: 'ETPs de criptomoedas acumulam US$ 4,02 bilhões em influxos, com recuperação forte na sexta-feira após vendas no meio da semana.',
-    category: 'cripto',
-    categoryLabel: 'Cripto',
-    image: 'https://placehold.co/800x400/1a5276/ffffff?text=ETPs+Cripto',
+    title: 'Crypto.com recebe licença em Dubai para processar pagamentos governamentais com cripto',
+    excerpt: 'Exchange obtém aprovação regulatória nos Emirados Árabes Unidos para processar pagamentos governamentais em criptomoedas, marcando avanço da adoção institucional no Oriente Médio.',
+    category: 'economia',
+    categoryLabel: 'Economia',
+    image: 'https://placehold.co/800x400/1a5276/ffffff?text=Crypto.com+Dubai',
     author: 'Redação BTC Ancap News',
-    date: '2 mai 2026',
+    date: '11 mai 2026',
     readTime: '5 min',
     featured: true,
     body: `
-      <p>Os produtos de investimento em criptomoedas (ETPs) registraram a quinta semana consecutiva de influxos líquidos positivos, totalizando US$ 4,02 bilhões no período. O dado reforça a tendência de adoção institucional contínua, mesmo em meio à volatilidade de curto prazo.</p>
+      <p>A Crypto.com, uma das maiores exchanges de criptomoedas do mundo, recebeu uma licença regulatória em Dubai que a autoriza a processar pagamentos governamentais em criptomoedas. A aprovação, concedida pela Autoridade Reguladora de Ativos Virtuais de Dubai (VARA), é um marco na adoção de criptomoedas por governos no Oriente Médio.</p>
 
       <h3>O que aconteceu</h3>
-      <p>Na última semana, os ETPs cripto enfrentaram um movimento de vendas no meio da semana, com US$ 619 milhões saindo dos produtos entre terça e quinta-feira. No entanto, a sexta-feira registrou uma recuperação expressiva de US$ 737 milhões, salvando a semana e estendendo a sequência positiva para cinco semanas.</p>
+      <p>A licença permite que a Crypto.com atue como processadora de pagamentos para entidades governamentais em Dubai, habilitando o recebimento de taxas, multas e outros pagamentos públicos em criptomoedas. A exchange também poderá oferecer serviços de conversão automática de cripto para moeda fiduciária, facilitando a adoção por órgãos públicos.</p>
+
+      <p>Dubai tem se posicionado como um dos centros mais amigáveis do mundo para criptomoedas e blockchain. A cidade-estado criou um arcabouço regulatório abrangente sob a VARA, atraindo empresas do setor de todo o mundo com regras claras e segurança jurídica.</p>
+
+      <blockquote>Dubai entende que o futuro das finanças é digital. Licenciar exchanges de criptomoedas para processar pagamentos governamentais não é apenas inovação — é uma estratégia de posicionamento global. — Análise BTC Ancap News</blockquote>
 
       <h3>Contexto</h3>
-      <p>O fluxo consistente de capital institucional para ETPs cripto reflete um amadurecimento do mercado. Diferentemente dos ciclos anteriores, impulsionados principalmente por varejo, o atual movimento de alta conta com participação significativa de gestoras de ativos, fundos de pensão e tesourarias corporativas.</p>
+      <p>Os Emirados Árabes Unidos, e Dubai em particular, têm investido pesadamente para se tornar um hub global de tecnologia blockchain e criptomoedas. Além de regulamentação favorável, o país criou zonas econômicas especiais para empresas de ativos digitais e lançou iniciativas próprias de tokenização.</p>
+
+      <p>A licença da Crypto.com se soma a outras aprovações regulatórias que a exchange já possui em jurisdições como Singapura, França, Reino Unido e Austrália. A empresa tem adotado uma estratégia de conformidade global, buscando licenças nos principais mercados regulados.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>A entrada contínua de capital institucional cria uma pressão de compra estável que contrasta com a volatilidade típica do mercado cripto. Esse fluxo reduz o impacto de vendas de curto prazo e fornece uma camada de suporte para os preços, especialmente do Bitcoin.</p>
+      <p>A autorização para processar pagamentos governamentais é um marco significativo: significa que um governo reconhece oficialmente as criptomoedas como meio de pagamento válido para serviços públicos. Isso vai além da simples adoção como investimento — é adoção como meio de troca funcional.</p>
+
+      <p>Para o mercado, a notícia reforça a tendência de adoção institucional e governamental de criptomoedas, especialmente em jurisdições com visão de futuro. O Oriente Médio, com seus fundos soberanos e ambição de diversificação econômica, pode se tornar um dos maiores mercados de cripto nos próximos anos.</p>
 
       <h3>Consequências possíveis</h3>
-      <p>Caso a tendência de influxos se mantenha, o mercado pode ver uma redução significativa da oferta circulante disponível nas exchanges, amplificando o efeito de qualquer movimento de alta. A continuidade desse fluxo também valida o argumento de que o mercado cripto está se consolidando como uma classe de ativos legítima para investidores institucionais.</p>
+      <p>Se o modelo de pagamentos governamentais em cripto for bem-sucedido em Dubai, outras cidades e países podem seguir o exemplo, criando uma rede global de aceitação de criptomoedas para serviços públicos. O movimento também pode pressionar outros hubs financeiros como Londres, Singapura e Nova York a acelerarem suas próprias regulamentações.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>Cinco semanas seguidas de influxos é um sinal claro de que o capital institucional não é mais um experimento no mercado cripto — é uma tendência estrutural. Mesmo com eventos de venda pontuais, a recuperação rápida mostra que há demanda reprimida significativa. O cenário se alinha com a tese de que o Bitcoin e o mercado cripto estão em um processo de maturação que tende a reduzir a volatilidade extrema ao longo do tempo.</p>
+      <p>Ver um governo como o de Dubai habilitando pagamentos em criptomoedas é um sinal de que a adoção está avançando em uma frente crucial: a utilidade como meio de troca. Até aqui, o Bitcoin tem sido visto principalmente como reserva de valor e investimento. A capacidade de pagar impostos e taxas governamentais em cripto é um passo concreto em direção à funcionalidade monetária plena. Que isso venha de Dubai — uma cidade-estado que entende de livre mercado e inovação — não é surpresa para quem acompanha a geopolítica dos ativos digitais.</p>
     `,
     comments: []
   },
   {
     id: 14,
-    title: 'Bitcoin busca suporte nos US$ 80 mil em meio a tensões geopolíticas',
-    excerpt: 'Após volatilidade causada por eventos geopolíticos, BTC busca se firmar acima dos US$ 80 mil com indicadores técnicos mistos.',
-    category: 'bitcoin',
-    categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Bitcoin+80k',
+    title: 'Três protocolos DeFi devolvem quase US$ 100 milhões a detentores de tokens em 30 dias',
+    excerpt: 'Hyperliquid, EdgeX e Pump.fun combinam US$ 96 milhões em recompras e distribuições, marcando mudança de foco de volume de transações para geração real de valor.',
+    category: 'cripto',
+    categoryLabel: 'Cripto',
+    image: 'https://placehold.co/800x400/7c3aed/ffffff?text=DeFi+%24100M',
     author: 'Redação BTC Ancap News',
-    date: '3 mai 2026',
-    readTime: '6 min',
+    date: '11 mai 2026',
+    readTime: '5 min',
     featured: true,
     body: `
-      <p>O Bitcoin enfrentou nova onda de volatilidade nesta semana, oscilando em torno dos US$ 80 mil em meio a tensões geopolíticas envolvendo o Irã e seus efeitos sobre os mercados globais. A criptomoeda chegou a recuar, mas se recuperou rapidamente, demonstrando resiliência.</p>
+      <p>Três protocolos de finanças descentralizadas (DeFi) devolveram quase US$ 100 milhões a seus detentores de tokens em apenas 30 dias. Hyperliquid, EdgeX e Pump.fun combinaram US$ 96 milhões em recompras e distribuições diretas, sinalizando uma mudança de paradigma no setor: de métricas de vaidade para geração real de valor aos participantes.</p>
 
       <h3>O que aconteceu</h3>
-      <p>Eventos geopolíticos inesperados abalaram os mercados globais, e o Bitcoin não ficou imune. A criptomoeda chegou a testar regiões abaixo dos US$ 80 mil antes de se recuperar, em um movimento que lembrou os padrões de volatilidade observados em períodos de incerteza geopolítica no passado.</p>
+      <p>Os três protocolos adotaram mecanismos diferentes para devolver valor. A Hyperliquid, uma exchange descentralizada de derivativos, liderou as distribuições com recompras agressivas de seu token nativo. A EdgeX, protocolo de tokenização de ativos, distribuiu parte de suas taxas diretamente aos detentores. Já a Pump.fun, plataforma de lançamento de memecoins, canalizou parte de suas receitas para queimas periódicas de tokens.</p>
+
+      <p>O total combinado de US$ 96 milhões em 30 dias é impressionante por si só, mas o que chama mais atenção é a tendência: protocolos DeFi estão migrando de um modelo focado em "total value locked" (TVL) e volumes de transação para um modelo que prioriza retorno real aos participantes do ecossistema.</p>
+
+      <blockquote>A evolução natural do DeFi é deixar de ser um cassino especulativo e se tornar uma infraestrutura financeira que gera valor real. As recompras e distribuições são a prova de que isso está acontecendo. — Análise BTC Ancap News</blockquote>
 
       <h3>Contexto</h3>
-      <p>Historicamente, o Bitcoin tem se comportado de forma ambígua em momentos de tensão geopolítica. Em alguns eventos, atuou como proteção (hedge); em outros, como ativo de risco, caindo junto com os mercados tradicionais. Desta vez, a recuperação rápida sugere que a tese de proteção está ganhando força entre investidores.</p>
+      <p>O mercado DeFi passou por várias fases desde a explosão do "Summer DeFi" de 2020. Inicialmente, o foco era em métricas de crescimento: TVL, volume de transações e número de usuários. Com o tempo, investidores começaram a exigir modelos de negócio sustentáveis, com geração real de receita e retorno para os detentores de tokens.</p>
 
-      <blockquote>A volatilidade geopolítica é temporária, mas a escassez do Bitcoin é permanente. Investidores que entendem isso usam quedas para acumular. — Análise BTC Ancap News</blockquote>
+      <p>Os protocolos que estão devolvendo valor hoje são aqueles que conseguiram construir produtos com demanda real e receita consistente. A Hyperliquid, por exemplo, processa bilhões de dólares em volume mensal de derivativos, gerando taxas que permitem as recompras.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>Apesar da turbulência, o Bitcoin conseguiu se manter acima dos US$ 80 mil, um nível psicologicamente importante. O fato de a criptomoeda ter se recuperado rapidamente das quedas indica que há demanda sólida atuando como suporte nessa região de preços.</p>
+      <p>A tendência de devolução de valor é positiva para o amadurecimento do mercado cripto. Protocolos que geram receita real e distribuem valor aos participantes tendem a atrair investidores mais sofisticados e capital de longo prazo, reduzindo a volatilidade e a especulação.</p>
+
+      <p>Para o ecossistema como um todo, o movimento sinaliza que o DeFi está se aproximando do modelo de ações tradicionais, onde empresas geram lucro e distribuem dividendos ou fazem recompras. Essa equiparação pode facilitar a entrada de capital institucional no setor.</p>
 
       <h3>Consequências possíveis</h3>
-      <p>Se o Bitcoin conseguir transformar os US$ 80 mil em suporte sólido, o caminho para testar US$ 85 mil e, posteriormente, US$ 95 mil fica mais claro. Por outro lado, novos eventos geopolíticos podem trazer volatilidade adicional de curto prazo, mas a tendência estrutural de acumulação institucional permanece intacta.</p>
+      <p>Se a tendência se consolidar, mais protocolos DeFi adotarão mecanismos de devolução de valor, criando um ciclo virtuoso: produtos melhores → mais receita → mais distribuição → mais usuários → mais receita. O mercado de tokens DeFi pode se reavaliar significativamente, com investidores precificando fluxos de caixa futuros de forma similar ao que fazem com ações tradicionais.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>A recuperação rápida do Bitcoin após o susto geopolítico reforça a narrativa de que ele está se consolidando como um ativo de reserva digital. Quedas pontuais por eventos externos têm sido compradas agressivamente, o que é um sinal otimista de médio prazo. O nível dos US$ 80 mil agora funciona como referência crucial: consolidado acima dele, o mercado pode mirar patamares mais altos com confiança.</p>
+      <p>O movimento de Hyperliquid, EdgeX e Pump.fun é um sinal de maturidade para o mercado DeFi. Durante anos, o setor foi criticado por ser um castelo de cartas sustentado por incentivos inflacionários e métricas de vaidade. Agora, protocolos que geram receita real estão mostrando que é possível construir negócios sustentáveis em blockchain. Para o investidor, a lição é clara: pare de olhar para TVL e comece a olhar para receita e fluxo de caixa. O DeFi está crescendo, e os protocolos que conseguirem gerar valor real serão os vencedores de longo prazo.</p>
     `,
     comments: []
   },
   {
     id: 15,
-    title: 'Mineração de Bitcoin atrai investimentos com alta da lucratividade',
-    excerpt: 'Com Bitcoin acima dos US$ 80 mil, mineradores aumentam receita e expandem operações, sinalizando confiança no pós-halving.',
-    category: 'bitcoin',
-    categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f39c12/1a1a1a?text=Minera%C3%A7%C3%A3o+BTC',
+    title: 'Ether cai 35% frente ao Bitcoin no último ano e risco de queda adicional preocupa investidores',
+    excerpt: 'ETH/BTC atinge menor nível em anos com declínio de 35% em 12 meses, e analistas alertam que o par pode sofrer mais 40% de queda caso tendência continue.',
+    category: 'cripto',
+    categoryLabel: 'Cripto',
+    image: 'https://placehold.co/800x400/7c3aed/ffffff?text=ETH+vs+BTC',
     author: 'Redação BTC Ancap News',
-    date: '3 mai 2026',
+    date: '11 mai 2026',
     readTime: '5 min',
     featured: true,
     body: `
-      <p>A lucratividade da mineração de Bitcoin voltou a patamares atrativos com o preço do BTC acima dos US$ 80 mil, estimulando novos investimentos em infraestrutura e equipamentos. O movimento marca uma recuperação significativa após o período de ajuste pós-halving.</p>
+      <p>O par ETH/BTC atingiu seu nível mais baixo em anos, com o Ethereum registrando uma queda de 35% em relação ao Bitcoin nos últimos 12 meses. Analistas técnicos alertam que o padrão de baixa do ETH/BTC é semelhante ao observado em 2024-2025, que precedeu uma queda adicional de 40%.</p>
 
       <h3>O que aconteceu</h3>
-      <p>Com o Bitcoin operando consistentemente acima dos US$ 80 mil, os mineradores viram suas margens de lucro se expandirem significativamente. Dados de rede mostram que o hashprice (receita estimada por unidade de poder computacional) se recuperou, incentivando a expansão da capacidade instalada e a compra de novos equipamentos ASIC.</p>
+      <p>O Ethereum vem perdendo força frente ao Bitcoin de forma consistente há mais de um ano. Enquanto o BTC se mantém acima dos US$ 80 mil e mostra sinais de força com o golden cross e influxos institucionais, o ETH luta para se firmar acima de US$ 2.500 e perde terreno tanto em termos de preço quanto de narrativa.</p>
+
+      <p>A dominância do Bitcoin no mercado cripto subiu significativamente no período, refletindo a preferência dos investidores por BTC como ativo de reserva em detrimento de altcoins. Enquanto o Bitcoin se beneficia dos ETFs à vista e da narrativa de "ouro digital", o Ethereum enfrenta desafios regulatórios e de concorrência de outras blockchains de camada 1.</p>
+
+      <blockquote>O ETH/BTC em queda livre é o reflexo de um mercado que está precificando claramente: Bitcoin é reserva de valor, Ethereum é tecnologia. Em tempos de incerteza, o mercado prefere a primeira. — Análise BTC Ancap News</blockquote>
 
       <h3>Contexto</h3>
-      <p>O halving de 2024 reduziu pela metade a emissão de novos Bitcoins, comprimindo as margens dos mineradores menos eficientes. Muitos foram forçados a desligar equipamentos antigos e buscar operações com custo de energia mais baixo. A alta do preço do BTC agora compensa essa redução na emissão, tornando a mineração novamente lucrativa mesmo para operadores de médio porte.</p>
+      <p>O par ETH/BTC é amplamente acompanhado por investidores como indicador do apetite por risco no mercado cripto. Quando o ETH/BTC sobe, significa que investidores estão migrando capital do Bitcoin para altcoins em busca de maiores retornos (risk-on). Quando cai, indica preferência por Bitcoin como ativo mais seguro (risk-off).</p>
+
+      <p>A queda de 35% em 12 meses é a maior desde 2022 e reflete uma combinação de fatores: a aprovação dos ETFs de Bitcoin à vista (que não se repetiu para Ethereum com o mesmo sucesso), a incerteza sobre a classificação regulatória do ETH como valor mobiliário, e o crescente interesse em blockchains concorrentes como Solana e Sui.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>Mineradores mais lucrativos tendem a vender menos BTC no mercado aberto para cobrir custos operacionais, reduzindo a pressão vendedora. Além disso, o aumento da taxa de hash fortalece a segurança da rede Bitcoin, um sinal positivo para investidores institucionais que monitoram esses indicadores.</p>
+      <p>A desvalorização contínua do ETH frente ao BTC tem implicações para investidores que mantêm alocações significativas em Ethereum. Fundos e gestoras que apostaram no ETH como alternativa ao BTC estão sofrendo perdas relativas substanciais.</p>
+
+      <p>Para o ecossistema Ethereum, a queda prolongada do ETH/BTC pode afetar o moral dos desenvolvedores e a percepção do mercado sobre o futuro da plataforma. No entanto, a atividade na rede Ethereum continua robusta, com milhares de aplicações DeFi e volumes significativos de transações.</p>
 
       <h3>Consequências possíveis</h3>
-      <p>Se o preço do Bitcoin se mantiver nessa faixa, espera-se um ciclo virtuoso: mais investimento em mineração → maior segurança da rede → mais confiança institucional → maior demanda → preço sustentado. Esse círculo virtuoso é um dos mecanismos mais poderosos da economia do Bitcoin.</p>
+      <p>Se o ETH/BTC continuar caindo, o Ethereum pode perder ainda mais participação no mercado cripto para blockchains concorrentes. No entanto, Catalisadores como a tokenização de ativos do mundo real (RWA) e o crescimento do ecossistema DeFi podem reverter parte dessa tendência. O nível de suporte histórico do ETH/BTC está em torno de 0,02, e uma quebra abaixo disso pode acelerar as perdas.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>A recuperação da lucratividade da mineração é um sinal de que o mercado está absorvendo com sucesso os efeitos do halving. O ajuste pós-halving foi doloroso para mineradores ineficientes, mas a alta do preço do Bitcoin está validando a tese de que a redução da emissão, combinada com demanda crescente, cria um ambiente econômico sustentável para a mineração. Este é um termômetro importante para a saúde de longo prazo da rede.</p>
+      <p>A dominância crescente do Bitcoin sobre o Ethereum é um fenômeno que reflete uma verdade simples: em última análise, o mercado reconhece que escassez absoluta é mais valiosa que utilidade programável. O Bitcoin é dinheiro sólido, ponto final. O Ethereum é um computador mundial com token associado. São propostas de valor fundamentalmente diferentes, e o mercado está votando com seus inflows. Para investidores que acompanham o ETH/BTC, a tendência de baixa é clara e não mostra sinais de reversão no curto prazo. Isso não significa que o Ethereum não tenha valor — mas significa que, como reserva de valor, o Bitcoin continua imbatável.</p>
     `,
     comments: []
   },
   {
     id: 16,
-    title: 'Bitcoin atinge US$ 81 mil com sequência recorde de funding rate negativo',
-    excerpt: 'BTC sobe 2,9% enquanto taxas de funding perpetuas negativas por 66 dias consecutivos sinalizam hedge institucional, não baixista — e dados históricos apontam alta.',
-    category: 'bitcoin',
-    categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Bitcoin+%2481K',
+    title: 'SUI dispara 50% com planos de stablecoins sem taxa e transações privadas, diz Mysten Labs',
+    excerpt: 'Token nativo da Sui explode após cofundador da Mysten Labs anunciar transfers de stablecoins com taxa zero e planos de adicionar transações privadas à blockchain de camada 1.',
+    category: 'cripto',
+    categoryLabel: 'Cripto',
+    image: 'https://placehold.co/800x400/7c3aed/ffffff?text=SUI+50%25',
     author: 'Redação BTC Ancap News',
-    date: '4 mai 2026',
-    readTime: '6 min',
+    date: '11 mai 2026',
+    readTime: '5 min',
     featured: true,
     body: `
-      <p>O Bitcoin atingiu US$ 81.261 nesta segunda-feira (5 de maio de 2026), registrando alta de 2,9% nas últimas 24 horas. O movimento, no entanto, vem acompanhado de um fenômeno incomum: as taxas de funding dos contratos perpétuos de Bitcoin permanecem negativas há 66 dias consecutivos — a sequência mais longa da década.</p>
+      <p>O token nativo da blockchain Sui disparou 50% após o cofundador da Mysten Labs, Adeniyi Abiodun, anunciar planos ambiciosos para a rede: transferências de stablecoins com taxa zero e a adição de transações privadas. O movimento elevou significativamente a capitalização de mercado do ativo e recolocou a Sui no centro das atenções do mercado cripto.</p>
 
       <h3>O que aconteceu</h3>
-      <p>Dados on-chain mostram que os shorts estão pagando aproximadamente 12% de custo anualizado para manter posições, mas analistas alertam que isso não reflete baixista generalizado do varejo. Segundo Derek Lim, da gestora Caladan, a taxa negativa persistente "reflete a oferta de inventário curto de mesas delta-neutral, e não direcional baixista".</p>
+      <p>Durante um evento em Miami, Abiodun revelou que a Sui está desenvolvendo um sistema de transferências de stablecoins com zero de taxa, um movimento que pode tornar a blockchain extremamente competitiva para pagamentos e remessas internacionais. Atualmente, até mesmo redes rápidas como Solana cobram taxas mínimas, e a proposta de taxa zero é um diferencial significativo.</p>
 
-      <p>Andri Fauzan Adziima, da exchange Bitrue, complementa que os ETFs de Bitcoin à vista nos EUA registraram cerca de US$ 2,44 bilhões em influxos em abril — o mês mais forte de 2026 — enquanto instituições acumulam BTC no mercado à vista e vendem futuros para gerenciar risco.</p>
+      <p>Além disso, a Mysten Labs reafirmou seu compromisso com a privacidade na rede, anunciando planos para implementar transações privadas nativas. A combinação de taxa zero e privacidade pode posicionar a Sui como uma plataforma atraente para aplicações financeiras que exigem confidencialidade.</p>
+
+      <blockquote>Estamos construindo a infraestrutura de pagamentos do futuro. Taxas zero e privacidade não são luxos — são requisitos básicos para que bilhões de pessoas adotem criptomoedas no dia a dia. — Adeniyi Abiodun, cofundador da Mysten Labs</blockquote>
 
       <h3>Contexto</h3>
-      <p>Os fluxos institucionais identificados incluem: fundos de hedge vendendo BTC durante resgates, traders de basis comprando ações da Strategy enquanto vendem futuros perpétuos de Bitcoin, e mineradores fazendo hedge de seus tesouros de BTC enquanto migram para computação de IA.</p>
+      <p>A Sui é uma blockchain de camada 1 que utiliza a linguagem de programação Move, originalmente desenvolvida pela Meta (Facebook) para o projeto Libra/Diem. A Mysten Labs, fundada por ex-funcionários da Meta, tem se concentrado em criar uma plataforma rápida, escalável e amigável para desenvolvedores.</p>
 
-      <p>Vetle Lund, da K33 Research, analisou seis regimes comparáveis de funding negativo desde 2018. Em todos os seis casos, o Bitcoin produziu retornos positivos em 90 dias, com taxas de acerto entre 83% e 96%, contra 55% a 75% em entradas arbitrárias. O drawdown máximo médio caiu de 16% para apenas 5% nesses cenários.</p>
+      <p>A blockchain já vinha ganhando tração com aplicações DeFi e jogos, mas o anúncio de stablecoins com taxa zero representa um salto em termos de utilidade prática. Se implementado com sucesso, o recurso pode atrair volumes significativos de pagamentos e remessas para a rede.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>Analistas apontam US$ 82 mil como nível crítico, coincidindo com a média exponencial de 200 dias. Matthew Pinnock, da Altura DeFi, afirma que se os shorts forem forçados a desfazer posições, "o funding se torna positivo e o Bitcoin pode se mover fortemente em direção a US$ 100 mil em um squeeze". Se a demanda à vista esfriar primeiro, ele projeta consolidação entre US$ 70 mil e US$ 75 mil.</p>
-
-      <p>Mercados de predição dão 84% de chance de o Bitcoin testar US$ 84 mil nos próximos movimentos.</p>
+      <p>A alta de 50% do token SUI reflete o entusiasmo do mercado com as novidades. No entanto, investidores devem acompanhar se as promessas se concretizarão: implementar transações privadas em uma blockchain pública é um desafio técnico considerável, e sustentar taxas zero requer um modelo econômico viável para a rede.</p>
 
       <h3>Consequências possíveis</h3>
-      <p>O cenário atual é incomum: funding negativo geralmente é associado a quedas prolongadas, mas os influxos em ETFs contam uma história diferente. Se a tese institucional estiver correta, a liquidação forçada de shorts pode impulsionar o Bitcoin a novos patamares no médio prazo.</p>
+      <p>Se a Sui conseguir entregar transfers de stablecoin com taxa zero e privacidade, ela pode se tornar uma concorrente direta de redes estabelecidas como Solana e Ethereum para o mercado de pagamentos. O movimento também pode pressionar outras blockchains a reduzirem suas taxas e melhorarem a privacidade.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>O funding rate negativo prolongado não é um sinal de fraqueza quando analisado em conjunto com os influxos institucionais. O que parece baixista na superfície é, na verdade, um reflexo da sofisticação crescente do mercado: instituições acumulam BTC no à vista enquanto fazem hedge nos futuros. Esse padrão, historicamente, precede movimentos expressivos de alta quando os shorts são forçados a cobrir. O nível dos US$ 82 mil será o termômetro para o próximo grande movimento.</p>
+      <p>Stablecoins com taxa zero e privacidade em uma blockchain de camada 1 é exatamente o tipo de inovação que pode levar as criptomoedas ao próximo nível de adoção. A Sui está fazendo uma aposta ousada, e o mercado está reagindo positivamente. No entanto, é importante separar anúncio de execução — muitas blockchains prometeram revoluções que não se concretizaram. De qualquer forma, a competição por taxas mais baixas e mais privacidade beneficia todo o ecossistema cripto.</p>
     `,
     comments: []
   },
   {
     id: 17,
-    title: 'Coinbase demite 14% da equipe em meio a mercado baixista e avanço da IA',
-    excerpt: 'CEO Brian Armstrong anuncia corte de 14% dos funcionários, elimina cargos puramente gerenciais e aposta em times "nativos de IA" com estrutura organizacional enxuta.',
+    title: 'White hat devolve US$ 190 mil ao protocolo Renegade horas após exploit em dark pool DeFi',
+    excerpt: 'Hacker ético explora vulnerabilidade na Renegade, dark pool descentralizada, e devolve todos os fundos, afirmando que a decisão foi para "proteger os usuários do DeFi".',
     category: 'cripto',
     categoryLabel: 'Cripto',
-    image: 'https://placehold.co/800x400/0055aa/ffffff?text=Coinbase+Demite',
+    image: 'https://placehold.co/800x400/7c3aed/ffffff?text=White+Hat+Renegade',
     author: 'Redação BTC Ancap News',
-    date: '5 mai 2026',
-    readTime: '5 min',
+    date: '11 mai 2026',
+    readTime: '4 min',
     featured: true,
     body: `
-      <p>A Coinbase anunciou nesta segunda-feira (5 de maio de 2026) a demissão de 14% de sua força de trabalho. O CEO Brian Armstrong comunicou a decisão em e-mail interno publicado também em sua conta no X, citando o mercado baixista de criptomoedas e a transformação impulsionada por inteligência artificial como motivos principais.</p>
+      <p>Um white hat hacker explorou uma vulnerabilidade no protocolo Renegade, uma dark pool descentralizada, e devolveu US$ 190 mil em fundos poucas horas depois do ataque. O hacker afirmou que a decisão foi tomada "para proteger os fundos e a segurança dos usuários do DeFi", em mais um episódio que destaca o papel ético dos white hats no ecossistema cripto.</p>
 
       <h3>O que aconteceu</h3>
-      <p>Armstrong afirmou que "estamos em um mercado baixista e precisamos ajustar nossa estrutura de custos agora". Ele também destacou que engenheiros da empresa "usam IA para entregar em dias o que antes levava semanas com times inteiros". A exchange está se reestruturando para funcionar como "uma inteligência, com humanos em volta", nas palavras do CEO.</p>
+      <p>A Renegade é uma dark pool descentralizada que permite negociações privadas e confidenciais na blockchain Ethereum. O hacker identificou uma vulnerabilidade nos contratos inteligentes do protocolo e conseguiu acessar US$ 190 mil em fundos de usuários. Em vez de roubar os recursos, o white hat contatou a equipe da Renegade e devolveu a quantia integral, recebendo agradecimentos públicos da equipe.</p>
 
-      <p>A organização será achatada para no máximo cinco camadas hierárquicas abaixo do CEO e COO. Cargos puramente gerenciais foram eliminados — todos os líderes precisam permanecer contribuidores individuais. As contratações futuras serão focadas em "pods nativos de IA", incluindo times experimentais de uma única pessoa responsável por engenharia, design e produto simultaneamente.</p>
+      <p>Casos como este são relativamente comuns no DeFi, onde "white hats" (hackers éticos) identificam vulnerabilidades antes de criminosos e ajudam a proteger os fundos dos usuários. Muitas vezes, esses hackers recebem recompensas (bug bounties) pelos achados, embora não esteja claro se a Renegade ofereceu uma recompensa neste caso.</p>
+
+      <blockquote>O ecossistema DeFi opera em um regime de "responsabilidade mútua": qualquer pessoa pode auditar o código, e a ética dos white hats é o que separa uma vulnerabilidade corrigida de um desastre financeiro. — Análise BTC Ancap News</blockquote>
 
       <h3>Contexto</h3>
-      <p>O movimento da Coinbase não é isolado. O Goldman Sachs estima que a substituição por IA está eliminando cerca de 25 mil empregos americanos por mês, com perda líquida de aproximadamente 16 mil posições mensalmente. Grandes empresas de tecnologia também reduziram quadros: Meta cortou 8 mil funcionários (10% da força de trabalho), Microsoft ofereceu buyouts a 7%, e a Block eliminou mais de 4 mil vagas.</p>
+      <p>O DeFi já perdeu bilhões de dólares em hacks e exploits ao longo dos anos. Incidentes como o roubo de US$ 600 milhões da Ronin Network, o exploit de US$ 320 milhões da Wormhole e o colapso de US$ 293 milhões da Kelp DAO são lembretes constantes dos riscos de segurança no setor.</p>
 
-      <p>Semanas antes do anúncio, a Coinbase vinha testando agentes de IA modelados a partir do cofundador Fred Ehrsam e do ex-CTO Balaji Srinivasan. Armstrong já havia sinalizado que a empresa "provavelmente teria mais agentes do que funcionários humanos em breve".</p>
+      <p>No entanto, a comunidade white hat tem desempenhado um papel cada vez mais importante na proteção do ecossistema. Plataformas como Immunefi e Hats Finance oferecem incentivos para que hackers éticos encontrem e reportem vulnerabilidades antes que criminosos as explorem.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>A demissão em massa reflete a pressão contínua sobre as exchanges de criptomoedas em um ciclo de mercado desafiador. A Coinbase, que já havia feito cortes anteriores durante o mercado baixista de 2022-2023, busca preservar caixa e eficiência operacional enquanto investe em automação.</p>
-
-      <p>A severência para funcionários americanos inclui mínimo de 16 semanas de salário base mais duas semanas adicionais por ano de serviço, próximo vesting de equity, seis meses de COBRA e suporte extra para portadores de visto.</p>
+      <p>Casos de white hats devolvendo fundos reforçam a confiança no ecossistema DeFi. Embora a vulnerabilidade em si seja negativa, a resolução rápida e ética demonstra que a transparência do código aberto permite que problemas sejam identificados e corrigidos rapidamente.</p>
 
       <h3>Consequências possíveis</h3>
-      <p>O movimento da Coinbase pode estabelecer um precedente para outras exchanges e empresas do setor cripto. A integração agressiva de IA na operação pode reduzir custos estruturais de forma permanente, mas também levanta questões sobre o futuro do emprego no setor. Se o modelo de "times nativos de IA" provar ser eficaz, outras empresas devem seguir o mesmo caminho.</p>
+      <p>A Renegade deve corrigir a vulnerabilidade e possivelmente passar por uma nova auditoria de segurança. O incidente serve como lembrete para todos os protocolos DeFi da importância de programas de bug bounty bem financiados e testes rigorosos de segurança.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>A Coinbase está antecipando uma tendência que deve atingir todo o setor de tecnologia. A combinação de mercado baixista prolongado com produtividade exponencial da IA está forçando empresas a repensar estruturas herdadas. Para o mercado cripto, a reação será ambígua: por um lado, cortes de custos sinalizam saúde financeira; por outro, indicam que o mercado baixista pode ser mais longo do que muitos esperam. O foco deve estar na capacidade da empresa de manter operações e conformidade regulatória durante a transição.</p>
+      <p>O white hat que devolveu US$ 190 mil é um exemplo do melhor do ethos cripto: responsabilidade individual, transparência e um senso de comunidade que transcende o lucro imediato. Diferentemente do sistema financeiro tradicional, onde vulnerabilidades são escondidas por décadas até explodirem em crises sistêmicas, o DeFi expõe seus problemas à luz do dia e os corrige em horas. Isso não é uma fraqueza — é a maior vantagem do sistema.</p>
     `,
     comments: []
   },
   {
     id: 18,
-    title: 'Mineração de Bitcoin se recupera: Hut 8 refinancia e Capital B levanta US$ 1,3 milhão',
-    excerpt: 'Setor de mineração mostra sinais claros de recuperação com Hut 8 refinanciando dívida de US$ 200 milhões em BTC e Capital B levantando capital com apoio de Adam Back.',
-    category: 'bitcoin',
-    categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f39c12/1a1a1a?text=Minera%C3%A7%C3%A3o+Recupera',
+    title: 'XRP alinha métricas de alta para rally até US$ 2, apontam indicadores técnicos e on-chain',
+    excerpt: 'Analistas identificam convergência de múltiplos indicadores técnicos e on-chain apontando para rompimento do XRP, com US$ 2 como primeiro alvo e potencial para movimento maior.',
+    category: 'cripto',
+    categoryLabel: 'Cripto',
+    image: 'https://placehold.co/800x400/7c3aed/ffffff?text=XRP+%242',
     author: 'Redação BTC Ancap News',
-    date: '4 mai 2026',
+    date: '11 mai 2026',
     readTime: '5 min',
     featured: true,
     body: `
-      <p>O setor de mineração de Bitcoin está vivendo um momento de recuperação significativa, com duas notícias importantes chegando ao mercado: a Hut 8, uma das maiores mineradoras listadas em bolsa, concluiu o refinanciamento de um empréstimo lastreado em Bitcoin no valor de US$ 200 milhões, e a gestora Capital B levantou US$ 1,3 milhão com o apoio de Adam Back, CEO da Blockstream e uma das figuras mais influentes do ecossistema Bitcoin.</p>
+      <p>O XRP está dando sinais de que um rompimento de alta pode estar em andamento, de acordo com a analista Nancy Lubale. Múltiplos indicadores técnicos e on-chain estão se alinhando para o que pode ser um "rally em grande escala", com US$ 2 como o primeiro alvo de preço.</p>
 
       <h3>O que aconteceu</h3>
-      <p>A Hut 8 firmou um acordo com a FalconX para refinanciar sua dívida lastreada em Bitcoin a uma taxa fixa de 7% ao ano. O movimento permitiu à empresa liberar aproximadamente 3.300 BTC que estavam como garantia colateral, dando-lhe mais flexibilidade financeira para operar e expandir. A taxa de 7% fixa é considerada favorável no atual ambiente de juros, especialmente para uma empresa do setor de mineração.</p>
+      <p>O XRP, atualmente negociado em torno de US$ 1,47, apresenta uma confluência de sinais altistas: o RSI (Relative Strength Index) mostra momentum positivo sem estar em território de sobrecompra, o volume de negociação está crescendo de forma consistente, e os dados on-chain indicam acumulação por parte de grandes detentores (whales).</p>
 
-      <p>Paralelamente, a Capital B, uma gestora focada em tesouraria de Bitcoin, anunciou a captação de US$ 1,3 milhão com a participação de Adam Back, criador do Hashcash (precursor técnico do proof-of-work do Bitcoin) e CEO da Blockstream. O investimento sinaliza confiança no modelo de tesouraria corporativa em Bitcoin como estratégia de longo prazo.</p>
+      <p>Além dos indicadores técnicos, o cenário regulatório para o XRP tem melhorado significativamente desde a vitória parcial da Ripple contra a SEC em 2023. A clareza jurídica renovada abriu caminho para parcerias institucionais e listagens em exchanges que antes evitavam o ativo devido à incerteza regulatória.</p>
 
-      <blockquote>O refinanciamento da Hut 8 mostra que o mercado de crédito para mineradores está voltando. Quando os bancos e credores voltam a emprestar para o setor, é sinal de que a confiança na mineração de Bitcoin foi restaurada. — Análise do setor</blockquote>
+      <blockquote>O XRP está montando um dos setups técnicos mais promissores do mercado altcoin no momento. Se romper US$ 1,50 com volume, o caminho para US$ 2 fica aberto. — Análise BTC Ancap News</blockquote>
 
       <h3>Contexto</h3>
-      <p>O setor de mineração passou por um período de ajuste severo após o halving de 2024, que reduziu pela metade a emissão de novos Bitcoins. Mineradores ineficientes foram forçados a desligar equipamentos, enquanto empresas bem capitalizadas buscaram formas criativas de administrar suas dívidas e tesourarias. O preço do Bitcoin consistentemente acima de US$ 80 mil mudou esse cenário, tornando a mineração novamente lucrativa até para operadores de médio porte.</p>
+      <p>O XRP é uma das criptomoedas mais antigas e estabelecidas do mercado, com foco em pagamentos transfronteiriços. A Ripple, empresa associada ao ativo, tem construído uma rede de parcerias com instituições financeiras ao redor do mundo para usar o XRP como ponte de liquidação.</p>
 
-      <p>A Hut 8, especificamente, vinha carregando uma dívida significativa contraída durante a expansão de 2021-2022. O refinanciamento permite à empresa não apenas reduzir custos financeiros, mas também recuperar controle sobre seus BTC, que podem ser usados como tesouraria estratégica ou para novos investimentos em infraestrutura.</p>
+      <p>Após anos de batalha jurídica com a SEC, a Ripple emergiu com clareza regulatória renovada, o que permitiu a retomada de expansão nos mercados americano e global. Parcerias recentes com bancos e procesadoras de pagamento têm reforçado a tese de utilidade do XRP.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>O movimento de refinanciamento da Hut 8 é um sinal de que o mercado de capitais está reabrindo para o setor de mineração. Com taxas de juros fixas acessíveis e a liberação de BTC como garantia, outras mineradoras devem buscar acordos semelhantes. Isso reduz a pressão vendedora sobre o Bitcoin, já que mineradores precisam vender menos BTC para cobrir custos operacionais.</p>
-
-      <p>A entrada de Adam Back como investidor na Capital B também carrega peso simbólico: uma das mentes fundacionais do Bitcoin apostando em estratégias corporativas de acumulação reforça a tese de que o BTC é um ativo de tesouraria legítimo e veio para ficar.</p>
+      <p>Um rally do XRP para US$ 2 representaria uma valorização de aproximadamente 36% em relação aos níveis atuais. Mais importante, um movimento de alta consistente do XRP poderia puxar outras altcoins, iniciando uma temporada de altcoins (altseason).</p>
 
       <h3>Consequências possíveis</h3>
-      <p>Com a mineração novamente lucrativa e o crédito disponível, o setor deve entrar em um ciclo virtuoso: mais investimento em infraestrutura → maior hashrate → maior segurança da rede → mais confiança institucional → mais demanda. No curto prazo, a redução da venda forçada de BTC por mineradores contribui para o choque de oferta que muitos analistas projetam para os próximos meses.</p>
+      <p>Se o XRP romper US$ 2 e se consolidar acima desse nível, o próximo alvo seria a região de US$ 3 a US$ 3,50, máximas históricas do ativo. No entanto, a realização desse movimento depende do volume de negociação e do sentimento geral do mercado cripto.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>A recuperação do setor de mineração é um dos termômetros mais importantes da saúde do ecossistema Bitcoin. Ver empresas como Hut 8 conseguindo refinanciar dívidas em condições favoráveis e gestoras como Capital B atraindo investidores do calibre de Adam Back são sinais de que o mercado está amadurecendo. O círculo virtuoso entre preço do BTC, lucratividade da mineração e segurança da rede é o motor fundamental que impulsiona o Bitcoin há mais de uma década — e ele está funcionando perfeitamente.</p>
+      <p>O XRP é um dos poucos ativos cripto com utilidade comprovada no sistema financeiro tradicional, especialmente em pagamentos transfronteiriços. A clareza regulatória conquistada após a batalha com a SEC removeu a maior nuvem negra sobre o ativo. Os sinais técnicos são promissores, mas é importante lembrar que o XRP ainda é um ativo relativamente centralizado comparado ao Bitcoin. Para investidores que buscam exposição ao mercado de pagamentos globais, o XRP merece atenção — mas sempre dentro de uma alocação diversificada.</p>
     `,
     comments: []
   },
   {
     id: 19,
-    title: 'SEC atrasa ETFs de mercado de predição enquanto regulação global se intensifica',
-    excerpt: 'SEC solicita mais informações sobre ETFs de mercado de predição, Coreia do Sul alerta para excesso de relatórios AML, e Nova York multa Uphold em US$ 5 milhões.',
+    title: 'Tribunal permite Arbitrum DAO mover US$ 71 milhões em ETH para Aave após congelamento relacionado a hack da Coreia do Norte',
+    excerpt: 'Juiz de Manhattan modifica ordem de restrição para permitir que DAO transfira Ether congelado para a Aave, preservando direitos legais de vítimas de terrorismo sobre os fundos.',
     category: 'economia',
     categoryLabel: 'Economia',
-    image: 'https://placehold.co/800x400/2d3748/ffffff?text=SEC+Regula%C3%A7%C3%A3o',
+    image: 'https://placehold.co/800x400/1a5276/ffffff?text=Arbitrum+Court',
     author: 'Redação BTC Ancap News',
-    date: '4 mai 2026',
-    readTime: '6 min',
+    date: '11 mai 2026',
+    readTime: '5 min',
     featured: true,
     body: `
-      <p>O cenário regulatório global para criptomoedas e ativos digitais ganhou novos capítulos importantes nesta semana, com a SEC dos EUA adiando a aprovação de ETFs de mercado de predição, a Coreia do Sul alertando sobre os custos excessivos de novas regras AML, e Nova York impondo uma multa de US$ 5 milhões à exchange Uphold.</p>
+      <p>Um juiz de Manhattan modificou uma ordem de restrição para permitir que o Arbitrum DAO mova US$ 71 milhões em Ether congelado para o protocolo Aave. A decisão preserva os direitos legais de vítimas de terrorismo que reivindicam os fundos, ao mesmo tempo que permite que o DAO evite perdas com a inatividade dos ativos.</p>
 
       <h3>O que aconteceu</h3>
-      <p>A Securities and Exchange Commission (SEC) dos Estados Unidos solicitou informações adicionais sobre ETFs de mercado de predição propostos por gestoras como Roundhill, GraniteShares e Bitwise. A comissão citou preocupações com a mecânica de funcionamento e riscos associados a esses produtos, adiando qualquer decisão de aprovação.</p>
+      <p>Os US$ 71 milhões em ETH estavam congelados em uma carteira vinculada ao grupo Lazarus, um notório grupo de hackers patrocinado pelo governo norte-coreano, que teria usado os fundos para financiar atividades ilegais. A ordem de restrição original impedia qualquer movimentação dos ativos enquanto a disputa legal não fosse resolvida.</p>
 
-      <p>Na Coreia do Sul, a associação do setor de criptomoedas (DAXA) emitiu um alerta contundente sobre as propostas de combate à lavagem de dinheiro (AML) do governo, argumentando que as novas regras podem gerar mais de 5,4 milhões de relatórios anuais — um volume administrativo que sobrecarregaria o sistema e prejudicaria a inovação.</p>
+      <p>O Arbitrum DAO argumentou que manter o ETH parado por período prolongado resultaria em perda de oportunidades de rendimento (custo de oportunidade) e possível depreciação. A modificação da ordem permite que o DAO deposite os fundos na Aave, um protocolo DeFi que gera rendimento através de empréstimos, enquanto o caso legal prossegue.</p>
 
-      <p>Em Nova York, a exchange Uphold foi forçada a pagar US$ 5 milhões em multas por seu envolvimento no esquema fraudulento de investimentos cripto CredEarn, que lesou milhares de investidores.</p>
-
-      <blockquote>Regulação não é o inimigo da inovação. Regulação mal desenhada, que trata todos os ativos digitais como iguais, é que sufoca o desenvolvimento de tecnologias verdadeiramente transformadoras. — Posição do setor sobre a proposta sul-coreana</blockquote>
+      <blockquote>Esta decisão estabelece um precedente importante: a justiça reconhece que ativos digitais têm custos de oportunidade reais e que o congelamento prolongado pode ser prejudicial, mesmo em casos de disputa de propriedade. — Análise BTC Ancap News</blockquote>
 
       <h3>Contexto</h3>
-      <p>O ambiente regulatório para criptomoedas continua fragmentado globalmente. Enquanto jurisdições como a União Europeia avanzam com estruturas abrangentes (MiCA), os EUA mantêm uma abordagem caso a caso que gera incerteza para emissores e investidores. A decisão da SEC de adiar os ETFs de predição reflete essa cautela, especialmente em um ano eleitoral americano.</p>
+      <p>O caso envolve questões complexas de direito internacional, propriedade de ativos digitais e a interseção entre o sistema judiciário tradicional e organizações autônomas descentralizadas (DAOs). O grupo Lazarus é conhecido por realizar hacks bilionários contra exchanges e protocolos DeFi, utilizando os fundos roubados para financiar o programa de mísseis e armas nucleares da Coreia do Norte.</p>
 
-      <p>Na Coreia do Sul, um dos mercados de criptomoedas mais ativos do mundo, a tensão entre inovação e proteção ao investidor atingiu novo patamar. A proposta AML do governo exigiria que as exchanges reportassem transações acima de determinado valor com muito mais frequência, criando uma carga burocrática que a DAXA considera desproporcional.</p>
-
-      <p>A multa da NYDFS (Departamento de Serviços Financeiros de Nova York) à Uphold, por sua vez, demonstra que reguladores estaduais americanos continuam ativos na fiscalização de exchanges, independentemente da posição federal.</p>
+      <p>A decisão do juiz é significativa porque reconhece o DAO como uma entidade capaz de tomar decisões financeiras racionais em busca do melhor interesse de seus participantes, mesmo enquanto disputas legais sobre a propriedade dos fundos não são resolvidas.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>O adiamento dos ETFs de predição pela SEC tem impacto limitado no mercado cripto como um todo, já que esses produtos são nicho. No entanto, sinaliza que a comissão mantém sua postura cautelosa em relação a novos produtos cripto, o que pode afetar o cronograma de aprovação de outros ETFs temáticos no futuro.</p>
-
-      <p>Na Coreia do Sul, a incerteza regulatória pode levar exchanges a reduzir operações ou sair do mercado, diminuindo a liquidez regional. O país é responsável por uma parcela significativa do volume de negociação de altcoins, e mudanças regulatórias lá costumam ter efeito imediato nos preços.</p>
+      <p>A decisão estabelece um precedente jurídico importante para como DAOs e ativos digitais são tratados pelo sistema judiciário. O reconhecimento de que DAOs podem tomar decisões financeiras em nome de seus participantes é um passo na direção da personalidade jurídica para essas organizações.</p>
 
       <h3>Consequências possíveis</h3>
-      <p>O cenário regulatório global para criptomoedas deve continuar evoluindo de forma desigual. Países com estruturas claras (como a UE e alguns estados americanos) devem atrair mais investimento institucional, enquanto jurisdições com regras incertas ou excessivamente onerosas podem perder competitividade. Para o investidor de criptomoedas, a diversificação geográfica de exposição e o compliance proativo são cada vez mais importantes.</p>
+      <p>O caso pode abrir precedentes para futuras disputas envolvendo ativos digitais congelados, estabelecendo que DAOs têm o direito de gerenciar ativos de forma responsável mesmo durante litígios. Também pode acelerar discussões sobre a personalidade jurídica de DAOs.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>Regulação é uma faca de dois gumes para o mercado cripto. Por um lado, regras claras e sensatas trazem segurança jurídica que atrai capital institucional. Por outro, regulação excessiva ou mal planejada pode sufocar a inovação e empurrar projetos para jurisdições mais amigáveis. O movimento atual sugere que estamos em uma fase de "acerto de contas" regulatório, onde cada país define seus termos. Para o Bitcoin especificamente, sua natureza descentralizada e global torna qualquer tentativa de regulação direta ineficaz — mas o ecossistema ao redor (exchanges, custodians, DeFi) continuará sendo alvo de escrutínio crescente.</p>
+      <p>Um juiz americano permitindo que um DAO mova US$ 71 milhões em ETH para um protocolo DeFi é um marco na história jurídica das criptomoedas. A decisão reconhece implicitamente que DAOs são entidades capazes de tomar decisões financeiras responsáveis, um passo importante para a legitimidade jurídica dessas organizações. Para o mercado, é mais um sinal de que o sistema legal está se adaptando às realidades do mundo descentralizado, o é positivo para a adoção institucional de longo prazo.</p>
     `,
     comments: []
   },
   {
     id: 20,
-    title: 'Strive atinge 15.000 BTC em tesouraria e segue estratégia corporativa de acumulação',
-    excerpt: 'Empresa de Matt Cole ultrapassa 15 mil Bitcoins em tesouraria com compra recente de 444 BTC por US$ 33,9 milhões, seguindo modelo de Strategy focado em crescimento de BTC por ação.',
-    category: 'bitcoin',
-    categoryLabel: 'Bitcoin',
-    image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Strive+15K+BTC',
+    title: 'Exploit de US$ 293 milhões na Kelp DAO faz protocolos DeFi migrarem para Chainlink em massa',
+    excerpt: 'Após ataque expor riscos em oráculos e bridges terceirizados, Solv Protocol e outros projetos estão migrando para a infraestrutura da Chainlink para evitar vulnerabilidades similares.',
+    category: 'cripto',
+    categoryLabel: 'Cripto',
+    image: 'https://placehold.co/800x400/7c3aed/ffffff?text=Kelp+DAO+Exploit',
     author: 'Redação BTC Ancap News',
-    date: '3 mai 2026',
-    readTime: '5 min',
+    date: '11 mai 2026',
+    readTime: '6 min',
     featured: true,
     body: `
-      <p>A Strive, Inc., empresa liderada pelo CEO Matt Cole, anunciou que ultrapassou a marca de 15.000 Bitcoins em sua tesouraria corporativa. A empresa realizou uma compra adicional de 444 BTC por US$ 33,9 milhões, consolidando sua posição como uma das maiores detentoras corporativas de Bitcoin do mundo.</p>
+      <p>O exploit de US$ 293 milhões na Kelp DAO está provocando uma reação em cadeia no ecossistema DeFi. Após o ataque expor fragilidades em oráculos e bridges terceirizados, vários protocolos — incluindo o Solv Protocol — anunciaram migração para a infraestrutura da Chainlink, o provedor líder de oráculos descentralizados.</p>
 
       <h3>O que aconteceu</h3>
-      <p>A Strive, que segue uma estratégia de tesouraria focada em Bitcoin similar à da Strategy (antiga MicroStrategy), agora detém mais de 15.000 BTC. A abordagem da empresa prioriza o "crescimento em Bitcoin por ação", métrica que se tornou popular entre empresas que adotam o Bitcoin como ativo de reserva primário.</p>
+      <p>O ataque à Kelp DAO, que resultou na perda de US$ 293 milhões, explorou vulnerabilidades em bridges e oráculos terceirizados que o protocolo utilizava para obter preços e facilitar transferências entre blockchains. O exploit expôs como a dependência de infraestrutura não auditada pode criar riscos sistêmicos para protocolos DeFi.</p>
 
-      <p>A compra mais recente de 444 BTC foi feita ao preço médio de aproximadamente US$ 76.351 por Bitcoin, totalizando US$ 33,9 milhões. A empresa não divulgou o custo médio total de suas participações, mas a marca de 15.000 BTC representa, aos preços atuais, mais de US$ 1,2 bilhão em valor.</p>
+      <p>Em resposta, o Solv Protocol — uma plataforma de gestão de ativos tokenizados que gerencia mais de US$ 1 bilhão em valor total bloqueado — anunciou a migração completa de sua infraestrutura de oráculos para a Chainlink. Outros protocolos menores seguiram o mesmo caminho, buscando a segurança e confiabilidade da rede de oráculos mais estabelecida do mercado.</p>
+
+      <blockquote>A Chainlink é o padrão-ouro para oráculos descentralizados. Depois do exploit da Kelp, ficou claro que cortar custos com infraestrutura de oráculos é um risco que nenhum protocolo sério pode correr. — Posição do Solv Protocol sobre a migração</blockquote>
 
       <h3>Contexto</h3>
-      <p>A Strive foi fundada por Vivek Ramaswamy, empresário e ex-candidato presidencial americano, com a missão de "promover o capitalismo de stakeholders" e desafiar o capitalismo woke de Wall Street. A empresa entrou no mercado de Bitcoin sob a liderança de Matt Cole, que assumiu como CEO e intensificou a estratégia de acumulação de BTC.</p>
+      <p>Oráculos são serviços que fornecem dados do mundo real (como preços de ativos) para contratos inteligentes na blockchain. Eles são essenciais para o funcionamento do DeFi, mas representam um ponto crítico de vulnerabilidade se não forem devidamente descentralizados e auditados.</p>
 
-      <p>O movimento faz parte de uma tendência maior de empresas adotando Bitcoin como ativo de tesouraria, inspiradas pelo sucesso da Strategy de Michael Saylor. Empresas como Block (Square), Coinbase, Metaplanet e Semler Scientific também mantêm Bitcoin em seus balanços, mas a Strategy continua sendo a maior detentora corporativa com mais de 500.000 BTC.</p>
+      <p>A Chainlink é de longe o provedor de oráculos mais utilizado no DeFi, com centenas de milhares de contratos inteligentes dependendo de sua rede para dados de preços. O movimento de migração após o exploit da Kelp DAO reforça a posição dominante da Chainlink no mercado.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>Cada nova compra corporativa de Bitcoin reduz a oferta circulante disponível nas exchanges, criando pressão de compra estrutural. A acumulação por empresas como a Strive — que compram e seguram — contrasta com o comportamento especulativo de curto prazo e contribui para a tese de escassez do Bitcoin.</p>
+      <p>A migração em massa para a Chainlink fortalece ainda mais o ecossistema LINK e consolida o token como um dos pilares da infraestrutura DeFi. Para o mercado, a consolidação em torno de padrões estabelecidos reduz riscos sistêmicos, mas também levanta questões sobre centralização da infraestrutura.</p>
 
-      <p>A marca de 15.000 BTC coloca a Strive entre as 10 maiores detentoras corporativas públicas de Bitcoin do mundo, um feito notável para uma empresa relativamente nova no espaço. O compromisso com a métrica de "crescimento em BTC por ação" sugere que a empresa continuará comprando em correções de preço.</p>
+      <p>O token LINK da Chainlink se valorizou com a notícia das migrações, refletindo o aumento esperado no uso da rede.</p>
 
       <h3>Consequências possíveis</h3>
-      <p>A contínua acumulação corporativa de Bitcoin pode levar a um aperto de oferta significativo, especialmente se combinada com os influxos dos ETFs à vista. Mais empresas devem seguir o modelo de tesouraria em Bitcoin, especialmente se o preço continuar mostrando resiliência acima dos US$ 80 mil. No entanto, o risco de concentração em um ativo volátil permanece, e empresas excessivamente alavancadas em BTC podem enfrentar pressão em cenários de queda prolongada.</p>
+      <p>A tendência de consolidação em torno da Chainlink deve continuar, com mais protocolos migrando para sua infraestrutura após o exploit. No longo prazo, isso pode levar a uma padronização do mercado de oráculos, com benefícios em termos de segurança, mas riscos de dependência excessiva de um único provedor.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>A Strive representa um caso interessante de adoção corporativa de Bitcoin: uma empresa com missão explicitamente libertária e crítica ao establishment financeiro, usando o Bitcoin como ferramenta de tesouraria. A acumulação consistente reforça a tese de que o Bitcoin está se consolidando como ativo de reserva corporativa legítimo. Se 15.000 BTC é o marco atual, a pergunta é: quantas empresas estão silenciosamente construindo posições similares sem divulgar? O efeito cumulativo dessa demanda corporativa, somada aos ETFs, continua sendo o maior motor estrutural de alta do Bitcoin no médio prazo.</p>
+      <p>O exploit de US$ 293 milhões na Kelp DAO é um lembrete doloroso de que o DeFi ainda está em seus estágios iniciais de desenvolvimento. A migração para a Chainlink é uma reação racional do mercado: quando um protocolo líder é comprometido, todos correm para a opção mais segura e testada. A ironia é que a Chainlink, embora descentralizada em sua operação, se torna cada vez mais um ponto único de falha sistêmica para todo o ecossistema DeFi. A diversificação de provedores de oráculos é importante, mas a realidade é que poucos concorrentes têm o nível de segurança e descentralização da Chainlink. Para o investidor, o movimento reforça a tese de que infraestrutura crítica bem construída é o melhor investimento de longo prazo no setor cripto.</p>
     `,
     comments: []
   },
@@ -695,7 +814,7 @@ const ARTICLES = [
       <p>Ver a DTCC — a espinha dorsal do mercado de títulos americano — adotando blockchain não é apenas mais uma parceria corporativa. É a infraestrutura crítica do sistema financeiro tradicional reconhecendo que a tecnologia de livro-razão distribuído oferece eficiências reais. Isso não significa necessariamente alta do Bitcoin no curto prazo, mas valida a tese mais ampla de que a tecnologia blockchain veio para ficar. O mercado de tokenização de RWAs pode ser o maior vetor de crescimento do setor cripto nos próximos anos — e a DTCC está colocando Wall Street no centro desse movimento.</p>
     `,
     comments: []
-  },
+  }
 ];
 
 // Categories with article counts
