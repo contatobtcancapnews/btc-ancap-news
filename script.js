@@ -160,8 +160,8 @@ const ARTICLES = [
   },
   {
     id: 5,
-    title: 'Strategy retoma compras de Bitcoin com US$ 43 milhões e já acumula mais de 500 mil BTC',
-    excerpt: 'Empresa de Michael Saylor adquire mais US$ 43 milhões em Bitcoin após pausa estratégica, mantendo a maior tesouraria corporativa de BTC do mundo, com mais de meio milhão de moedas.',
+    title: 'Strategy retoma compras de Bitcoin com US$ 43 milhões e já acumula mais de 818 mil BTC',
+    excerpt: 'Empresa de Michael Saylor adquire mais US$ 43 milhões em Bitcoin após pausa estratégica, mantendo a maior tesouraria corporativa de BTC do mundo, com mais de 818 mil moedas.',
     category: 'bitcoin',
     categoryLabel: 'Bitcoin',
     image: 'https://placehold.co/800x400/f7931a/1a1a1a?text=Strategy+43M',
@@ -170,7 +170,7 @@ const ARTICLES = [
     readTime: '5 min',
     featured: true,
     body: `
-      <p>A Strategy (antiga MicroStrategy) voltou a comprar Bitcoin. A empresa de Michael Saylor adquiriu US$ 43 milhões em BTC, retomando sua estratégia de acumulação após uma breve pausa que gerou especulações sobre uma possível mudança de direção. Com esta compra, a Strategy solidifica sua posição como a maior detentora corporativa de Bitcoin do mundo, com mais de 500 mil BTC em tesouraria.</p>
+      <p>A Strategy (antiga MicroStrategy) voltou a comprar Bitcoin. A empresa de Michael Saylor adquiriu US$ 43 milhões em BTC, retomando sua estratégia de acumulação após uma breve pausa que gerou especulações sobre uma possível mudança de direção. Com esta compra, a Strategy solidifica sua posição como a maior detentora corporativa de Bitcoin do mundo, com mais de 818 mil BTC em tesouraria.</p>
 
       <h3>O que aconteceu</h3>
       <p>A compra de US$ 43 milhões foi realizada ao preço médio de aproximadamente US$ 81.500 por Bitcoin, de acordo com documentos divulgados pela empresa. A aquisição ocorre semanas após Michael Saylor ter sugerido que a empresa poderia considerar vender parte de suas participações para financiar dividendos — declaração que gerou preocupação entre investidores.</p>
@@ -185,17 +185,17 @@ const ARTICLES = [
       <p>A breve pausa nas compras — a primeira em mais de dois anos — havia levantado questões sobre se a empresa estaria mudando de estratégia. Saylor alimentou ainda mais a especulação ao mencionar a possibilidade de usar parte do BTC para pagar dividendos. A nova compra de US$ 43 milhões dissipa essas dúvidas e reafirma o compromisso da empresa com a acumulação.</p>
 
       <h3>Impacto no mercado</h3>
-      <p>Cada compra da Strategy reduz a oferta circulante de Bitcoin disponível no mercado, contribuindo para o choque de oferta que impulsiona o preço. Com mais de 500 mil BTC — aproximadamente 2,4% de todo o supply que existirá — a Strategy é uma força relevante no mercado.</p>
+      <p>Cada compra da Strategy reduz a oferta circulante de Bitcoin disponível no mercado, contribuindo para o choque de oferta que impulsiona o preço. Com mais de 818 mil BTC — aproximadamente 4% de todo o supply que existirá — a Strategy é uma força relevante no mercado.</p>
 
       <p>A retomada das compras também tem efeito psicológico: sinaliza que um dos maiores defensores corporativos do Bitcoin continua confiante na valorização de longo prazo do ativo, o que pode incentivar outras empresas a seguir o mesmo caminho.</p>
 
       <h3>Consequências possíveis</h3>
-      <p>A compra de US$ 43 milhões pode ser o início de uma nova rodada de acumulação pela Strategy. Se a empresa continuar comprando no ritmo observado em 2024-2025, sua posição total pode se aproximar de 600 mil BTC até o final de 2026.</p>
+      <p>A compra de US$ 43 milhões pode ser o início de uma nova rodada de acumulação pela Strategy. Se a empresa continuar comprando no ritmo observado em 2024-2025, sua posição total pode ultrapassar 900 mil BTC até o final de 2026.</p>
 
       <p>Mais importante, a retomada das compras pela Strategy pode incentivar outras empresas cotadas em bolsa a seguirem o mesmo modelo de tesouraria em Bitcoin. Empresas como Block, Coinbase e Strive já adotaram estratégias similares, e o movimento da Strategy pode acelerar essa tendência.</p>
 
       <h3>Análise BTC Ancap News</h3>
-      <p>A volta da Strategy ao mercado comprando Bitcoin é um sinal poderoso. Quando a maior detentora corporativa de BTC retoma suas aquisições, o mercado inteiro presta atenção. A breve pausa e a menção a dividendos podem ter sido uma jogada tática — ou apenas ruído — mas o resultado prático é o mesmo: mais BTC saindo do mercado circulante e indo para uma tesouraria de longo prazo. Para quem acompanha a tese do choque de oferta, cada compra da Strategy é mais um tijolo no muro da escassez. Com mais de 500 mil BTC fora de circulação, o aperto de oferta só se intensifica.</p>
+      <p>A volta da Strategy ao mercado comprando Bitcoin é um sinal poderoso. Quando a maior detentora corporativa de BTC retoma suas aquisições, o mercado inteiro presta atenção. A breve pausa e a menção a dividendos podem ter sido uma jogada tática — ou apenas ruído — mas o resultado prático é o mesmo: mais BTC saindo do mercado circulante e indo para uma tesouraria de longo prazo. Para quem acompanha a tese do choque de oferta, cada compra da Strategy é mais um tijolo no muro da escassez. Com mais de 818 mil BTC fora de circulação, o aperto de oferta só se intensifica.</p>
     `,
     comments: []
   },
